@@ -166,7 +166,7 @@ def machine_learning_modeling():
 
 
     # Step 3: Transform the selected ward using the encoder
-    ward_encoded = encoder2.transform(np.array([Ward2, Stake])  # Reshaping for the encoder
+    ward_encoded = encoder2.transform(np.array([Ward2, Stake])) # Reshaping for the encoder
     st.write("You selected:", Ward2, Stake)
     #stake_encoded = encoder2.transform(np.array([Stake]).reshape(-1,1)) 
     s#t.write("You selected:", Stake)
