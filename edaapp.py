@@ -70,11 +70,12 @@ def exploratory_data_analysis():
     # Link to Tableau Visualization
     st.markdown(
     """
-    [Click here to view the interactive Edmonton Food Drive Analysis (2023 - 2024) on Tableau](https://public.tableau.com/app/profile/enkeshie.parris/viz/EDA-Demo/NoOutliersDashboard)
+    [Click here to view the interactive Edmonton Food Drive Analysis (2023 - 2024) on Tableau or](https://public.tableau.com/app/profile/enkeshie.parris/viz/EDA-Demo/NoOutliersDashboard)
     """,
     unsafe_allow_html=True
 )
-
+    st.write("Interact with the dashboard below")
+    
     # Tableau visualization HTML embed code
     tableau_html = """
     <div class='tableauPlaceholder' id='viz1733872310940' style='position: relative'>
@@ -128,7 +129,7 @@ def exploratory_data_analysis():
     """
     
     # Embed the Tableau visualization in Streamlit
-    st.title("Tableau Dashboard Embed")
+    #st.title("Tableau Dashboard Embed")
     components.html(tableau_html, height=900)
     
         
