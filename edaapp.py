@@ -68,7 +68,12 @@ def exploratory_data_analysis():
     st.title("Edmonton Food Drive - Time Series Analysis")
 
     # Link to Tableau Visualization
-    
+    st.markdown(
+    """
+    [Click here to view the interactive Edmonton Food Drive Analysis (2023 - 2024) on Tableau](https://public.tableau.com/app/profile/enkeshie.parris/viz/EDA-Demo/NoOutliersDashboard)
+    """,
+    unsafe_allow_html=True
+)
 
     # Tableau visualization HTML embed code
     tableau_html = """
