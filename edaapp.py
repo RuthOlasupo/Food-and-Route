@@ -162,7 +162,8 @@ def machine_learning_modeling():
     )
 
     # Load encoder
-    encoder2 = joblib.load('scaler.pkl') 
+    encoder2 = joblib.load('onehot_encoder2.pkl') 
+
 
     # Step 3: Transform the selected ward using the encoder
     ward_encoded = encoder2.transform(np.array([Ward2]).reshape(-1, 1))  # Reshaping for the encoder
