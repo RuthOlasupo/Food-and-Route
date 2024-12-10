@@ -1,0 +1,447 @@
+date,drop_off_location,stake,route_number/name,time_spent_collecting_donations,#_of_adult_volunteers_who_participated_in_this_route,#_of_youth_volunteers_who_participated_in_this_route,#_of_doors_in_route,#_of_donation_bags_collected,did_you_complete_more_than_1_route?,Number of routes completed,ward,Form Completion Time,Total Volunteers
+2024-09-28 10:01,Londonberry Chapel,Bonnie Doon Stake,Unassigned,0 - 30 Minutes,1,0,1,1,No,1,Clareview Ward,3 minutes 43 seconds,1
+2024-09-28 10:31,Gateway Stake Centre ,Gateway Stake,50,0 - 30 Minutes,2,2,20,20,No,1,Lee Ridge Ward,2 minutes 41 seconds,4
+2024-09-28 10:33,Bonnie Doon Stake Centre,Bonnie Doon Stake,98,0 - 30 Minutes,2,2,20,15,No,1,Forest Heights Ward,3 minutes 27 seconds,4
+2024-09-28 10:41,Bearspaw Chapel,Gateway Stake,6,30 - 60 Minutes,2,3,144,25,Yes,2,Lee Ridge Ward,2 minutes 3 seconds,5
+2024-09-28 10:36,Gateway Stake Centre ,Gateway Stake,19,30 - 60 Minutes,1,0,230,21,No,1,Silver Berry Ward,8 minutes 58 seconds,1
+2024-09-28 10:44,Bonnie Doon Stake Centre,Bonnie Doon Stake,7,0 - 30 Minutes,2,0,75,7,No,1,Forest Heights Ward,1 minutes 47 seconds,2
+2024-09-28 10:34,Gateway Stake Centre ,Gateway Stake,Meyokumin 25 ,30 - 60 Minutes,2,0,280,32,Yes,2,Crawford Plains Ward,14 minutes 50 seconds,2
+2024-09-28 10:02,Londonberry Chapel,Bonnie Doon Stake,32,30 - 60 Minutes,2,3,21,23,No,1,Londonderry Ward,46 minutes 58 seconds,5
+2024-09-28 10:46,Riverbend Stake Centre,Riverbend Stake,Route 1,60 - 90 Minutes,3,3,45,15,No,1,Woodbend Ward,3 minutes 16 seconds,6
+2024-09-28 10:48,Riverbend Stake Centre,Riverbend Stake,2,30 - 60 Minutes,2,4,172,18,No,1,Woodbend Ward,8 minutes 19 seconds,6
+2024-09-28 10:45,Bearspaw Chapel,Gateway Stake,1,0 - 30 Minutes,2,0,135,26,No,1,Blackmud Creek Ward,11 minutes 47 seconds,2
+2024-09-28 10:55,Bonnie Doon Stake Centre,Bonnie Doon Stake,Strathearn North,30 - 60 Minutes,2,4,0,30,No,1,Connors Hill Ward,1 minutes 10 seconds,6
+2024-09-28 10:05,Londonberry Chapel,Bonnie Doon Stake,64,0 - 30 Minutes,2,0,18,18,No,1,Londonderry Ward,51 minutes 51 seconds,2
+2024-09-28 10:49,Londonberry Chapel,Bonnie Doon Stake,21,0 - 30 Minutes,2,1,10,12,No,1,Londonderry Ward,8 minutes 33 seconds,3
+2024-09-28 10:53,Bearspaw Chapel,Gateway Stake,10,30 - 60 Minutes,2,3,3,36,No,1,Blackmud Creek Ward,4 minutes 56 seconds,5
+2024-09-28 10:45,Gateway Stake Centre ,Gateway Stake,28/konietz,30 - 60 Minutes,3,4,117,30,No,1,Silver Berry Ward,13 minutes 1 seconds,7
+2024-09-28 10:58,Bonnie Doon Stake Centre,Bonnie Doon Stake,58,0 - 30 Minutes,2,1,125,7,No,1,Forest Heights Ward,2 minutes 9 seconds,3
+2024-09-28 10:51,Bearspaw Chapel,Gateway Stake,6,30 - 60 Minutes,2,1,12,20,No,1,Blackmud Creek Ward,9 minutes 12 seconds,3
+2024-09-28 10:59,Gateway Stake Centre ,Gateway Stake,18,0 - 30 Minutes,2,0,236,16,No,1,Silver Berry Ward,4 minutes 40 seconds,2
+2024-09-28 10:49,Riverbend Stake Centre,Riverbend Stake,6,30 - 60 Minutes,3,2,50,8,No,1,Woodbend Ward,14 minutes 46 seconds,5
+2024-09-28 11:02,Edmonton North Stake Centre,Edmonton North Stake,Caernarvon A,30 - 60 Minutes,2,3,215,38,No,1,Griesbach Ward,2 minutes 26 seconds,5
+2024-09-28 10:56,Gateway Stake Centre ,Gateway Stake,30,60 - 90 Minutes,3,0,340,30,Yes,3,Crawford Plains Ward,8 minutes 53 seconds,3
+2024-09-28 11:00,Bonnie Doon Stake Centre,YSA Stake,Ritchie 4,30 - 60 Minutes,3,0,66,15,No,1,Mill Creek YSA Ward,4 minutes 37 seconds,3
+2024-09-28 11:04,Bonnie Doon Stake Centre,YSA Stake,Mill Creek 2,30 - 60 Minutes,1,0,208,12,No,1,Whitemud Creek YSA Ward,1 minutes 4 seconds,1
+2024-09-28 11:00,Bearspaw Chapel,Riverbend Stake,7,30 - 60 Minutes,2,0,174,23,No,1,Rutherford Ward,5 minutes 36 seconds,2
+2024-09-28 11:04,Bonnie Doon Stake Centre,Bonnie Doon Stake,Fulton Place #1B,0 - 30 Minutes,2,0,100,12,No,1,Forest Heights Ward,1 minutes 4 seconds,2
+2024-09-28 11:04,Bonnie Doon Stake Centre,YSA Stake,Mill Creek 2,30 - 60 Minutes,1,0,208,12,No,1,Whitemud Creek YSA Ward,1 minutes 14 seconds,1
+2024-09-28 11:04,Bonnie Doon Stake Centre,Bonnie Doon Stake,Sloan,0 - 30 Minutes,2,2,167,20,No,1,Forest Heights Ward,1 minutes 57 seconds,4
+2024-09-28 10:57,Riverbend Stake Centre,Riverbend Stake,37,0 - 30 Minutes,2,0,100,10,No,1,Rabbit Hill Ward,8 minutes 36 seconds,2
+2024-09-28 10:53,Riverbend Stake Centre,Riverbend Stake,13,0 - 30 Minutes,1,2,100,6,No,1,Woodbend Ward,12 minutes 31 seconds,3
+2024-09-28 10:01,Londonberry Chapel,Bonnie Doon Stake,169,0 - 30 Minutes,1,2,30,22,No,1,Clareview Ward,64 minutes 39 seconds,3
+2024-09-28 11:06,Bearspaw Chapel,Gateway Stake,9,30 - 60 Minutes,2,1,148,28,No,1,Lee Ridge Ward,0 minutes 22 seconds,3
+2024-09-28 11:01,Edmonton North Stake Centre,Edmonton North Stake,3-3-1a,0 - 30 Minutes,1,0,0,12,No,1,Namao Ward,5 minutes 46 seconds,1
+2024-09-28 11:04,Riverbend Stake Centre,Riverbend Stake,3,30 - 60 Minutes,1,2,169,11,No,1,Rutherford Ward,2 minutes 25 seconds,3
+2024-09-28 10:57,Londonberry Chapel,Bonnie Doon Stake,46,0 - 30 Minutes,1,3,7,10,No,1,Londonderry Ward,10 minutes 9 seconds,4
+2024-09-28 11:07,Londonberry Chapel,Bonnie Doon Stake,49th street,90 - 120 Minutes,2,0,40,15,No,1,Londonderry Ward,1 minutes 39 seconds,2
+2024-09-28 10:57,Londonberry Chapel,Bonnie Doon Stake,2,0 - 30 Minutes,1,0,60,17,No,1,Londonderry Ward,12 minutes 12 seconds,1
+2024-09-28 11:04,Gateway Stake Centre ,Gateway Stake,Laurel Park,30 - 60 Minutes,4,0,116,50,Yes,2,Crawford Plains Ward,5 minutes 40 seconds,4
+2024-09-28 11:06,Londonberry Chapel,Bonnie Doon Stake,169,0 - 30 Minutes,2,2,99,24,No,1,Clareview Ward,4 minutes 29 seconds,4
+2024-09-28 11:00,Bearspaw Chapel,Gateway Stake,9,30 - 60 Minutes,2,2,161,56,No,1,Blackmud Creek Ward,9 minutes 54 seconds,4
+2024-09-28 11:07,Bonnie Doon Stake Centre,Bonnie Doon Stake,Terrace Heights #3 (Poll 66),0 - 30 Minutes,2,2,75,8,No,1,Connors Hill Ward,3 minutes 44 seconds,4
+2024-09-28 11:09,Londonberry Chapel,Bonnie Doon Stake,25,30 - 60 Minutes,2,0,13,14,No,1,Londonderry Ward,1 minutes 36 seconds,2
+2024-09-28 11:07,Bearspaw Chapel,Gateway Stake,7,0 - 30 Minutes,2,0,170,30,No,1,Lee Ridge Ward,4 minutes 48 seconds,2
+2024-09-28 11:10,Bonnie Doon Stake Centre,Bonnie Doon Stake,Ritchie 2,0 - 30 Minutes,2,0,194,21,No,1,Connors Hill Ward,2 minutes 3 seconds,2
+2024-09-28 11:10,Londonberry Chapel,Bonnie Doon Stake,16,30 - 60 Minutes,2,3,15,18,No,1,Londonderry Ward,2 minutes 22 seconds,5
+2024-09-28 11:09,Bearspaw Chapel,Gateway Stake,33,30 - 60 Minutes,4,3,109,21,No,1,Blackmud Creek Ward,3 minutes 5 seconds,7
+2024-09-28 11:10,Gateway Stake Centre ,Gateway Stake,8,30 - 60 Minutes,1,0,12,11,No,1,Silver Berry Ward,2 minutes 37 seconds,1
+2024-09-28 11:06,Riverbend Stake Centre,Riverbend Stake,25,30 - 60 Minutes,2,1,280,40,No,1,Rabbit Hill Ward,6 minutes 51 seconds,3
+2024-09-28 11:11,Bonnie Doon Stake Centre,Bonnie Doon Stake,42,0 - 30 Minutes,1,3,150,12,No,1,Forest Heights Ward,2 minutes 15 seconds,4
+2024-09-28 11:04,Edmonton North Stake Centre,Edmonton North Stake,5 2.2,30 - 60 Minutes,2,0,217,13,No,1,Namao Ward,8 minutes 54 seconds,2
+2024-09-28 11:11,Londonberry Chapel,Bonnie Doon Stake,182,0 - 30 Minutes,1,0,10,12,No,1,Clareview Ward,2 minutes 30 seconds,1
+2024-09-28 11:07,Riverbend Stake Centre,Riverbend Stake,54,60 - 90 Minutes,2,2,191,30,No,1,Rabbit Hill Ward,7 minutes 7 seconds,4
+2024-09-28 11:12,Bonnie Doon Stake Centre,Bonnie Doon Stake,Goldbar 5,0 - 30 Minutes,1,4,115,4,No,1,Connors Hill Ward,1 minutes 27 seconds,5
+2024-09-28 11:02,Gateway Stake Centre ,Gateway Stake,11,0 - 30 Minutes,2,3,180,19,Yes,2,Ellerslie Ward,12 minutes 25 seconds,5
+2024-09-28 11:13,Bearspaw Chapel,Gateway Stake,8,60 - 90 Minutes,1,1,156,50,No,1,Blackmud Creek Ward,1 minutes 30 seconds,2
+2024-09-28 11:12,Edmonton North Stake Centre,Edmonton North Stake,4-3.2,60 - 90 Minutes,1,1,200,35,No,1,Namao Ward,2 minutes 42 seconds,2
+2024-09-28 11:11,Bearspaw Chapel,Gateway Stake,13,30 - 60 Minutes,2,0,20,35,No,1,Blackmud Creek Ward,4 minutes 16 seconds,2
+2024-09-28 11:03,Gateway Stake Centre ,Gateway Stake,30,30 - 60 Minutes,2,165,165,18,No,1,Lee Ridge Ward,12 minutes 25 seconds,167
+2024-09-28 10:54,Gateway Stake Centre ,Gateway Stake,5,0 - 30 Minutes,1,0,1,10,No,1,Lee Ridge Ward,21 minutes 53 seconds,1
+2024-09-28 11:14,Edmonton North Stake Centre,Edmonton North Stake,4-1.1 ,60 - 90 Minutes,2,0,170,32,No,1,Namao Ward,2 minutes 40 seconds,2
+2024-09-28 11:15,Edmonton North Stake Centre,Edmonton North Stake,Calder C,30 - 60 Minutes,1,2,60,20,No,1,Griesbach Ward,1 minutes 35 seconds,3
+2024-09-28 11:14,Bearspaw Chapel,Gateway Stake,63,30 - 60 Minutes,1,2,140,12,No,1,Lee Ridge Ward,2 minutes 34 seconds,3
+2024-09-28 11:15,Bearspaw Chapel,Gateway Stake,36,30 - 60 Minutes,2,3,134,55,No,1,Blackmud Creek Ward,1 minutes 57 seconds,5
+2024-09-28 11:14,Gateway Stake Centre ,Gateway Stake,73,0 - 30 Minutes,1,4,128,7,No,1,Crawford Plains Ward,3 minutes 50 seconds,5
+2024-09-28 11:13,Bearspaw Chapel,Gateway Stake,8,30 - 60 Minutes,1,1,156,50,No,1,Blackmud Creek Ward,4 minutes 48 seconds,2
+2024-09-28 11:14,Riverbend Stake Centre,Riverbend Stake,21,0 - 30 Minutes,2,2,100,12,No,1,Woodbend Ward,3 minutes 57 seconds,4
+2024-09-28 11:16,Londonberry Chapel,Bonnie Doon Stake,134,0 - 30 Minutes,2,0,125,20,No,1,Clareview Ward,2 minutes 51 seconds,2
+2024-09-28 11:17,Bonnie Doon Stake Centre,Bonnie Doon Stake,1,60 - 90 Minutes,3,0,195,40,No,1,Connors Hill Ward,2 minutes 21 seconds,3
+2024-09-28 11:13,Londonberry Chapel,Bonnie Doon Stake,3,30 - 60 Minutes,0,2,177,19,No,1,Londonderry Ward,6 minutes 9 seconds,2
+2024-09-28 11:17,Edmonton North Stake Centre,Bonnie Doon Stake,Ottwell #3 (poll 48),60 - 90 Minutes,1,1,200,30,No,1,Forest Heights Ward,2 minutes 43 seconds,2
+2024-09-28 11:12,Londonberry Chapel,Bonnie Doon Stake,22,60 - 90 Minutes,1,1,0,51,No,1,Londonderry Ward,8 minutes 15 seconds,2
+2024-09-28 11:17,Bearspaw Chapel,Gateway Stake,6,0 - 30 Minutes,1,0,4,1,No,1,Blackmud Creek Ward,3 minutes 31 seconds,1
+2024-09-28 10:33,Gateway Stake Centre ,Gateway Stake,74,30 - 60 Minutes,2,0,140,21,No,1,Crawford Plains Ward,47 minutes 44 seconds,2
+2024-09-28 11:15,Riverbend Stake Centre,Riverbend Stake,Royal Gardens # / Gavin Speidwl,30 - 60 Minutes,2,2,100,40,No,1,Greenfield Ward,5 minutes 52 seconds,4
+2024-09-28 11:18,Edmonton North Stake Centre,Edmonton North Stake,"113A, 133 street 131 ave",0 - 30 Minutes,2,0,80,6,No,1,Griesbach Ward,2 minutes 37 seconds,2
+2024-09-28 11:16,Gateway Stake Centre ,Gateway Stake,52 and 52,30 - 60 Minutes,1,1,250,25,Yes,2,Crawford Plains Ward,6 minutes 11 seconds,2
+2024-09-28 11:17,Gateway Stake Centre ,Gateway Stake,41,0 - 30 Minutes,3,0,100,20,No,1,Crawford Plains Ward,4 minutes 59 seconds,3
+2024-09-28 11:18,Edmonton North Stake Centre,Edmonton North Stake,5,90 - 120 Minutes,5,10,1000,56,Yes,1,Namao Ward,4 minutes 52 seconds,15
+2024-09-28 11:21,Bonnie Doon Stake Centre,Bonnie Doon Stake,Poll 47 ,0 - 30 Minutes,2,2,150,18,No,1,Forest Heights Ward,1 minutes 36 seconds,4
+2024-09-28 11:19,Riverbend Stake Centre,Riverbend Stake,AG1,30 - 60 Minutes,2,2,140,50,No,1,Greenfield Ward,3 minutes 48 seconds,4
+2024-09-28 11:23,Riverbend Stake Centre,Riverbend Stake,5,0 - 30 Minutes,1,2,125,28,No,1,Woodbend Ward,1 minutes 37 seconds,3
+2024-09-28 11:23,Bearspaw Chapel,Gateway Stake,56,30 - 60 Minutes,2,3,130,35,No,1,Lee Ridge Ward,1 minutes 47 seconds,5
+2024-09-28 11:21,Gateway Stake Centre ,Gateway Stake,86/laurel,60 - 90 Minutes,2,0,130,16,No,1,Crawford Plains Ward,4 minutes 29 seconds,2
+2024-09-28 11:19,Gateway Stake Centre ,Gateway Stake,66,0 - 30 Minutes,1,0,1,2,No,1,Crawford Plains Ward,6 minutes 48 seconds,1
+2024-09-28 11:22,Bonnie Doon Stake Centre,Bonnie Doon Stake,Forest height #4 (poll 68),60 - 90 Minutes,2,2,200,23,No,1,Forest Heights Ward,3 minutes 52 seconds,4
+2024-09-28 11:14,Londonberry Chapel,Bonnie Doon Stake,58,30 - 60 Minutes,2,0,40,26,Yes,2,Londonderry Ward,12 minutes 6 seconds,2
+2024-09-28 11:24,Edmonton North Stake Centre,Edmonton North Stake,Hudson c,30 - 60 Minutes,2,0,166,20,No,1,Griesbach Ward,1 minutes 57 seconds,2
+2024-09-28 11:22,Gateway Stake Centre ,Gateway Stake,23,30 - 60 Minutes,2,2,210,20,No,1,Ellerslie Ward,3 minutes 36 seconds,4
+2024-09-28 11:21,Bearspaw Chapel,Riverbend Stake,19,30 - 60 Minutes,2,2,205,21,No,1,Rutherford Ward,5 minutes 43 seconds,4
+2024-09-28 11:20,Londonberry Chapel,Bonnie Doon Stake,197/210,90 - 120 Minutes,2,0,0,9,No,1,Clareview Ward,6 minutes 18 seconds,2
+2024-09-28 11:25,Gateway Stake Centre ,Gateway Stake,36,30 - 60 Minutes,4,2,173,17,No,1,Lee Ridge Ward,1 minutes 43 seconds,6
+2024-09-28 11:25,Bearspaw Chapel,Bonnie Doon Stake,6,30 - 60 Minutes,2,0,150,40,No,1,Southgate Ward,2 minutes 24 seconds,2
+2024-09-28 11:20,Bearspaw Chapel,Gateway Stake,18,30 - 60 Minutes,2,2,155,22,No,1,Blackmud Creek Ward,7 minutes 42 seconds,4
+2024-09-28 11:26,Gateway Stake Centre ,Gateway Stake,24,30 - 60 Minutes,2,2,200,35,No,1,Ellerslie Ward,1 minutes 41 seconds,4
+2024-09-28 11:26,Bearspaw Chapel,Gateway Stake,46,30 - 60 Minutes,2,0,154,28,No,1,Lee Ridge Ward,1 minutes 28 seconds,2
+2024-09-28 11:27,Bearspaw Chapel,Bonnie Doon Stake,125,30 - 60 Minutes,2,0,128,12,No,1,Southgate Ward,1 minutes 18 seconds,2
+2024-09-28 11:25,Londonberry Chapel,Bonnie Doon Stake,123,30 - 60 Minutes,1,2,230,42,No,1,Clareview Ward,3 minutes 42 seconds,3
+2024-09-28 11:22,Gateway Stake Centre ,Gateway Stake,12,30 - 60 Minutes,2,0,131,20,No,1,Crawford Plains Ward,6 minutes 23 seconds,2
+2024-09-28 11:26,Gateway Stake Centre ,Gateway Stake,2,0 - 30 Minutes,1,2,100,20,No,1,Ellerslie Ward,3 minutes 20 seconds,3
+2024-09-28 11:27,Riverbend Stake Centre,Riverbend Stake,Howard Biggs,30 - 60 Minutes,2,3,150,30,No,1,Terwillegar Park Ward,2 minutes 8 seconds,5
+2024-09-28 11:25,Edmonton North Stake Centre,Edmonton North Stake,3-2.4b,0 - 30 Minutes,2,0,1751,14,No,1,Namao Ward,5 minutes 12 seconds,2
+2024-09-28 11:28,Bearspaw Chapel,Gateway Stake,63,60 - 90 Minutes,1,3,169,20,No,1,Lee Ridge Ward,2 minutes 9 seconds,4
+2024-09-28 11:27,Bearspaw Chapel,Gateway Stake,15,60 - 90 Minutes,2,2,153,35,No,1,Blackmud Creek Ward,2 minutes 44 seconds,4
+2024-09-28 11:21,Riverbend Stake Centre,Riverbend Stake,9,60 - 90 Minutes,2,0,150,20,No,1,Devon Ward,9 minutes 42 seconds,2
+2024-09-28 11:28,Bonnie Doon Stake Centre,Bonnie Doon Stake,Strathcona,30 - 60 Minutes,2,0,151,18,No,1,Southgate Ward,2 minutes 54 seconds,2
+2024-09-28 11:29,Gateway Stake Centre ,Gateway Stake,1,30 - 60 Minutes,3,0,241,50,No,1,Silver Berry Ward,2 minutes 25 seconds,3
+2024-09-28 11:25,Riverbend Stake Centre,Riverbend Stake,Gurney,30 - 60 Minutes,2,0,187,45,No,1,Rutherford Ward,6 minutes 36 seconds,2
+2024-09-28 11:28,Gateway Stake Centre ,Gateway Stake,"19,23",90 - 120 Minutes,2,3,280,48,Yes,2,Crawford Plains Ward,3 minutes 29 seconds,5
+2024-09-28 11:27,Edmonton North Stake Centre,Edmonton North Stake,Cumberland E,0 - 30 Minutes,2,2,180,15,No,1,Griesbach Ward,4 minutes 14 seconds,4
+2024-09-28 11:29,Londonberry Chapel,Bonnie Doon Stake,"162 , 170",30 - 60 Minutes,1,1,300,54,No,1,Clareview Ward,3 minutes 6 seconds,2
+2024-09-28 11:27,Gateway Stake Centre ,Gateway Stake,"62, 48, 61",60 - 90 Minutes,4,1,431,37,Yes,3,Crawford Plains Ward,4 minutes 29 seconds,5
+2024-09-28 11:29,Bearspaw Chapel,Gateway Stake,17,30 - 60 Minutes,2,2,100,25,No,1,Wild Rose Ward,3 minutes 24 seconds,4
+2024-09-28 11:30,Gateway Stake Centre ,Gateway Stake,37,60 - 90 Minutes,3,1,230,21,No,1,Silver Berry Ward,2 minutes 38 seconds,4
+2024-09-28 11:20,Londonberry Chapel,Bonnie Doon Stake,52,30 - 60 Minutes,2,1,300,55,Yes,2,Londonderry Ward,13 minutes 0 seconds,3
+2024-09-28 11:31,Edmonton North Stake Centre,Edmonton North Stake,2-1.1,30 - 60 Minutes,5,4,286,29,No,1,Namao Ward,2 minutes 3 seconds,9
+2024-09-28 11:26,Londonberry Chapel,Bonnie Doon Stake,Not specified ,30 - 60 Minutes,1,4,29,29,No,1,Londonderry Ward,7 minutes 18 seconds,5
+2024-09-28 11:31,Bonnie Doon Stake Centre,Bonnie Doon Stake,Strathcona 2 134 housew,30 - 60 Minutes,2,3,90,12,No,1,Connors Hill Ward,2 minutes 42 seconds,5
+2024-09-28 11:32,Gateway Stake Centre ,Gateway Stake,69/71,30 - 60 Minutes,4,1,271,27,Yes,2,Crawford Plains Ward,2 minutes 15 seconds,5
+2024-09-28 11:27,Londonberry Chapel,Bonnie Doon Stake,17,30 - 60 Minutes,2,0,0,20,No,1,Londonderry Ward,7 minutes 26 seconds,2
+2024-09-28 11:07,Riverbend Stake Centre,Riverbend Stake,201,60 - 90 Minutes,2,2,242,26,Yes,2,Rabbit Hill Ward,27 minutes 26 seconds,4
+2024-09-28 11:30,Bearspaw Chapel,Gateway Stake,23,0 - 30 Minutes,1,3,155,22,No,1,Blackmud Creek Ward,4 minutes 23 seconds,4
+2024-09-28 11:33,Londonberry Chapel,Bonnie Doon Stake,15,30 - 60 Minutes,2,0,15,15,No,1,Londonderry Ward,1 minutes 57 seconds,2
+2024-09-28 11:15,Gateway Stake Centre ,Gateway Stake,4,0 - 30 Minutes,2,4,198,33,Yes,2,Ellerslie Ward,19 minutes 28 seconds,6
+2024-09-28 11:29,Bonnie Doon Stake Centre,Bonnie Doon Stake,Forest Heights #7 (poll 71) A,30 - 60 Minutes,2,0,75,15,No,1,Forest Heights Ward,6 minutes 16 seconds,2
+2024-09-28 11:33,Gateway Stake Centre ,Gateway Stake,6,60 - 90 Minutes,2,2,168,16,No,1,Silver Berry Ward,2 minutes 12 seconds,4
+2024-09-28 11:32,Gateway Stake Centre ,Gateway Stake,26,30 - 60 Minutes,2,2,25,250,No,1,Ellerslie Ward,3 minutes 22 seconds,4
+2024-09-28 11:32,Riverbend Stake Centre,Riverbend Stake,51,30 - 60 Minutes,2,0,97,15,No,1,Rutherford Ward,3 minutes 33 seconds,2
+2024-09-28 11:33,Bearspaw Chapel,Gateway Stake,2,30 - 60 Minutes,2,2,130,20,No,1,Blackmud Creek Ward,2 minutes 43 seconds,4
+2024-09-28 11:30,Riverbend Stake Centre,Riverbend Stake,3,60 - 90 Minutes,2,0,200,70,Yes,2,Terwillegar Park Ward,5 minutes 39 seconds,2
+2024-09-28 11:32,Londonberry Chapel,Bonnie Doon Stake,110,30 - 60 Minutes,6,0,190,26,No,1,Clareview Ward,3 minutes 50 seconds,6
+2024-09-28 11:33,Londonberry Chapel,Bonnie Doon Stake,54,30 - 60 Minutes,1,0,20,24,No,1,Londonderry Ward,2 minutes 31 seconds,1
+2024-09-28 11:32,Edmonton North Stake Centre,Edmonton North Stake,Carlisle B,60 - 90 Minutes,2,0,150,33,No,1,Griesbach Ward,4 minutes 7 seconds,2
+2024-09-28 11:34,Londonberry Chapel,Bonnie Doon Stake,141,0 - 30 Minutes,1,1,0,18,No,1,Clareview Ward,3 minutes 13 seconds,2
+2024-09-28 11:36,Londonberry Chapel,Bonnie Doon Stake,29,30 - 60 Minutes,2,3,16,16,Yes,2,Londonderry Ward,1 minutes 44 seconds,5
+2024-09-28 11:35,Bonnie Doon Stake Centre,Bonnie Doon Stake,Fulton Place #4 (poll 74),30 - 60 Minutes,2,3,250,39,No,1,Forest Heights Ward,2 minutes 44 seconds,5
+2024-09-28 11:34,Edmonton North Stake Centre,Edmonton North Stake,3-1.2.b,30 - 60 Minutes,2,0,152,23,No,1,Namao Ward,3 minutes 38 seconds,2
+2024-09-28 11:35,Bearspaw Chapel,Gateway Stake,1,90 - 120 Minutes,2,0,200,25,No,1,Lee Ridge Ward,2 minutes 28 seconds,2
+2024-09-28 11:35,Gateway Stake Centre ,Gateway Stake,25,60 - 90 Minutes,2,1,174,230,No,1,Silver Berry Ward,2 minutes 57 seconds,3
+2024-09-28 11:35,Bearspaw Chapel,Gateway Stake,36,0 - 30 Minutes,2,2,177,22,No,1,Blackmud Creek Ward,3 minutes 20 seconds,4
+2024-09-28 11:35,Riverbend Stake Centre,Riverbend Stake,4,30 - 60 Minutes,2,2,210,24,No,1,Greenfield Ward,3 minutes 19 seconds,4
+2024-09-28 11:33,Gateway Stake Centre ,Gateway Stake,Ekota 13 ,60 - 90 Minutes,2,2,120,40,Yes,2,Rio Vista Ward,5 minutes 43 seconds,4
+2024-09-28 11:31,Riverbend Stake Centre,Riverbend Stake,41,60 - 90 Minutes,1,1,40,40,No,1,Terwillegar Park Ward,7 minutes 23 seconds,2
+2024-09-28 11:38,Bearspaw Chapel,Gateway Stake,2,30 - 60 Minutes,2,3,219,28,Yes,2,Lee Ridge Ward,0 minutes 49 seconds,5
+2024-09-28 11:35,Londonberry Chapel,Bonnie Doon Stake,47,30 - 60 Minutes,1,0,200,22,No,1,Londonderry Ward,3 minutes 50 seconds,1
+2024-09-28 11:34,Gateway Stake Centre ,Gateway Stake,49,30 - 60 Minutes,2,4,125,33,No,1,Rio Vista Ward,4 minutes 45 seconds,6
+2024-09-28 11:36,Gateway Stake Centre ,Gateway Stake,43,60 - 90 Minutes,6,4,250,30,Yes,2,Silver Berry Ward,2 minutes 27 seconds,10
+2024-09-28 11:36,Londonberry Chapel,Bonnie Doon Stake,"209,200,220",30 - 60 Minutes,3,0,200,33,No,1,Clareview Ward,4 minutes 3 seconds,3
+2024-09-28 11:36,Edmonton North Stake Centre,Edmonton North Stake,O rRNA A  and ozerna B,30 - 60 Minutes,4,0,500,500,Yes,2,Griesbach Ward,4 minutes 8 seconds,4
+2024-09-28 11:38,Londonberry Chapel,Bonnie Doon Stake,31,0 - 30 Minutes,2,0,96,7,No,1,Londonderry Ward,2 minutes 55 seconds,2
+2024-09-28 10:36,Bonnie Doon Stake Centre,Bonnie Doon Stake,106,30 - 60 Minutes,2,0,104,13,No,1,Londonderry Ward,64 minutes 3 seconds,2
+2024-09-28 11:38,Gateway Stake Centre ,Gateway Stake,42,30 - 60 Minutes,3,2,123,38,Yes,2,Crawford Plains Ward,2 minutes 7 seconds,5
+2024-09-28 11:39,Gateway Stake Centre ,Gateway Stake,56 Daly Grove,0 - 30 Minutes,1,0,135,17,No,1,Rio Vista Ward,1 minutes 46 seconds,1
+2024-09-28 11:39,Gateway Stake Centre ,Gateway Stake,7,30 - 60 Minutes,3,2,168,20,No,1,Silver Berry Ward,2 minutes 16 seconds,5
+2024-09-28 11:39,Bearspaw Chapel,Bonnie Doon Stake,M1,30 - 60 Minutes,2,0,143,20,No,1,Southgate Ward,3 minutes 19 seconds,2
+2024-09-28 11:38,Bearspaw Chapel,Gateway Stake,12,60 - 90 Minutes,2,4,200,20,Yes,2,Blackmud Creek Ward,4 minutes 39 seconds,6
+2024-09-28 11:40,Londonberry Chapel,Bonnie Doon Stake,5,30 - 60 Minutes,2,2,17,17,No,1,Londonderry Ward,2 minutes 21 seconds,4
+2024-09-28 11:41,Gateway Stake Centre ,Gateway Stake,39,0 - 30 Minutes,2,0,110,50,No,1,Crawford Plains Ward,2 minutes 19 seconds,2
+2024-09-28 11:37,Bonnie Doon Stake Centre,Bonnie Doon Stake,Bonnie Doon 3 ,60 - 90 Minutes,3,0,192,11,Yes,2,Connors Hill Ward,5 minutes 49 seconds,3
+2024-09-28 11:40,Edmonton North Stake Centre,Edmonton North Stake,Wellington C,0 - 30 Minutes,1,0,1,1,No,1,Griesbach Ward,2 minutes 59 seconds,1
+2024-09-28 11:40,Riverbend Stake Centre,Riverbend Stake,Royal gardens. 3,30 - 60 Minutes,4,0,150,17,No,1,Greenfield Ward,3 minutes 51 seconds,4
+2024-09-28 11:43,Gateway Stake Centre ,Gateway Stake,24,0 - 30 Minutes,3,1,170,9,No,1,Silver Berry Ward,1 minutes 33 seconds,4
+2024-09-28 11:41,Gateway Stake Centre ,Gateway Stake,16,60 - 90 Minutes,2,0,478,30,Yes,2,Silver Berry Ward,2 minutes 44 seconds,2
+2024-09-28 11:42,Bearspaw Chapel,Gateway Stake,7,30 - 60 Minutes,2,2,30,40,No,1,Blackmud Creek Ward,2 minutes 6 seconds,4
+2024-09-28 11:39,Londonberry Chapel,Bonnie Doon Stake,6,30 - 60 Minutes,1,1,24,30,Yes,2,Londonderry Ward,6 minutes 7 seconds,2
+2024-09-28 11:40,Gateway Stake Centre ,Gateway Stake,42,0 - 30 Minutes,4,1,80,31,No,1,Silver Berry Ward,5 minutes 35 seconds,5
+2024-09-28 11:43,Gateway Stake Centre ,Gateway Stake,33,0 - 30 Minutes,2,3,35,6,No,1,Rio Vista Ward,2 minutes 19 seconds,5
+2024-09-28 11:44,Bearspaw Chapel,Gateway Stake,4,90 - 120 Minutes,2,0,142,20,No,1,Lee Ridge Ward,1 minutes 57 seconds,2
+2024-09-28 11:43,Riverbend Stake Centre,Riverbend Stake,50,60 - 90 Minutes,2,1,205,34,No,1,Terwillegar Park Ward,2 minutes 54 seconds,3
+2024-09-28 11:43,Bonnie Doon Stake Centre,Bonnie Doon Stake,King Edward Park 3,30 - 60 Minutes,2,0,235,21,No,1,Connors Hill Ward,3 minutes 40 seconds,2
+2024-09-28 11:43,Bearspaw Chapel,Gateway Stake,162,60 - 90 Minutes,1,4,166,32,No,1,Lee Ridge Ward,3 minutes 47 seconds,5
+2024-09-28 11:41,Bonnie Doon Stake Centre,Bonnie Doon Stake,4,60 - 90 Minutes,2,0,200,20,Yes,3,Connors Hill Ward,6 minutes 5 seconds,2
+2024-09-28 11:36,Bonnie Doon Stake Centre,Bonnie Doon Stake,Capilano #1,30 - 60 Minutes,2,0,225,30,No,1,Forest Heights Ward,11 minutes 20 seconds,2
+2024-09-28 11:45,Londonberry Chapel,Bonnie Doon Stake,101,60 - 90 Minutes,2,2,0,24,No,1,Clareview Ward,1 minutes 56 seconds,4
+2024-09-28 11:44,Gateway Stake Centre ,Gateway Stake,47,30 - 60 Minutes,1,2,100,50,Yes,2,Crawford Plains Ward,3 minutes 9 seconds,3
+2024-09-28 11:47,Bearspaw Chapel,Gateway Stake,43,30 - 60 Minutes,2,0,30,20,No,1,Blackmud Creek Ward,1 minutes 20 seconds,2
+2024-09-28 11:35,Riverbend Stake Centre,Riverbend Stake,24,0 - 30 Minutes,3,2,204,26,Yes,2,Rutherford Ward,12 minutes 58 seconds,5
+2024-09-28 11:45,Gateway Stake Centre ,Gateway Stake,10,60 - 90 Minutes,2,0,239,24,No,1,Silver Berry Ward,3 minutes 24 seconds,2
+2024-09-28 11:47,Riverbend Stake Centre,Riverbend Stake,Brookside 3,0 - 30 Minutes,2,0,95,15,Yes,2,Rabbit Hill Ward,2 minutes 35 seconds,2
+2024-09-28 11:30,Bearspaw Chapel,YSA Stake,0,0 - 30 Minutes,2,0,153,8,No,1,Whitemud Creek YSA Ward,19 minutes 4 seconds,2
+2024-09-28 11:48,Bearspaw Chapel,Bonnie Doon Stake,8,0 - 30 Minutes,2,2,108,15,No,1,Southgate Ward,1 minutes 15 seconds,4
+2024-09-28 11:46,Bearspaw Chapel,Gateway Stake,12,90 - 120 Minutes,2,0,143,43,No,1,Blackmud Creek Ward,3 minutes 5 seconds,2
+2024-09-28 11:48,Bonnie Doon Stake Centre,Bonnie Doon Stake,Fulton place #3 (poll 73),60 - 90 Minutes,3,4,160,35,No,1,Forest Heights Ward,2 minutes 24 seconds,7
+2024-09-28 11:48,Gateway Stake Centre ,Gateway Stake,63,60 - 90 Minutes,2,2,265,30,Yes,2,Crawford Plains Ward,2 minutes 48 seconds,4
+2024-09-28 11:49,Bearspaw Chapel,Gateway Stake,27,60 - 90 Minutes,2,3,260,32,No,1,Blackmud Creek Ward,1 minutes 14 seconds,5
+2024-09-28 11:48,Londonberry Chapel,Bonnie Doon Stake,212,60 - 90 Minutes,2,2,110,30,No,1,Clareview Ward,2 minutes 56 seconds,4
+2024-09-28 11:50,Bearspaw Chapel,Bonnie Doon Stake,D4,90 - 120 Minutes,2,0,123,15,No,1,Southgate Ward,1 minutes 23 seconds,2
+2024-09-28 11:48,Riverbend Stake Centre,Riverbend Stake,1&2,60 - 90 Minutes,1,1,350,47,Yes,2,Terwillegar Park Ward,2 minutes 52 seconds,2
+2024-09-28 11:46,Bonnie Doon Stake Centre,Bonnie Doon Stake,Fulton Place #2 poll 64,60 - 90 Minutes,2,4,225,22,No,1,Forest Heights Ward,5 minutes 23 seconds,6
+2024-09-28 11:48,Edmonton North Stake Centre,Edmonton North Stake,Griesbach a and b,30 - 60 Minutes,1,2,650,48,Yes,2,Griesbach Ward,3 minutes 45 seconds,3
+2024-09-28 11:46,Gateway Stake Centre ,Gateway Stake,7,30 - 60 Minutes,2,2,140,30,No,1,Crawford Plains Ward,6 minutes 30 seconds,4
+2024-09-28 11:49,Bearspaw Chapel,Gateway Stake,54,30 - 60 Minutes,1,1,145,26,No,1,Lee Ridge Ward,3 minutes 7 seconds,2
+2024-09-28 11:51,Bearspaw Chapel,Gateway Stake,4,60 - 90 Minutes,2,0,210,18,No,1,Blackmud Creek Ward,1 minutes 54 seconds,2
+2024-09-28 11:48,Londonberry Chapel,Bonnie Doon Stake,154,0 - 30 Minutes,2,1,60,16,No,1,Clareview Ward,4 minutes 14 seconds,3
+2024-09-28 11:50,Bonnie Doon Stake Centre,Bonnie Doon Stake,#8,30 - 60 Minutes,2,1,150,22,No,1,Forest Heights Ward,2 minutes 32 seconds,3
+2024-09-28 11:37,Londonberry Chapel,Bonnie Doon Stake,129,0 - 30 Minutes,2,0,9,9,No,1,Clareview Ward,15 minutes 36 seconds,2
+2024-09-28 11:50,Riverbend Stake Centre,Riverbend Stake,7 Herb madlung,30 - 60 Minutes,2,0,167,25,No,1,Woodbend Ward,3 minutes 54 seconds,2
+2024-09-28 11:51,Bearspaw Chapel,Gateway Stake,0,90 - 120 Minutes,2,4,190,20,Yes,2,Blackmud Creek Ward,2 minutes 33 seconds,6
+2024-09-28 11:53,Londonberry Chapel,Bonnie Doon Stake,212,60 - 90 Minutes,2,2,110,30,No,1,Clareview Ward,1 minutes 25 seconds,4
+2024-09-28 11:51,Riverbend Stake Centre,Riverbend Stake,55,60 - 90 Minutes,2,0,174,17,No,1,Rutherford Ward,2 minutes 45 seconds,2
+2024-09-28 11:53,Bonnie Doon Stake Centre,Bonnie Doon Stake,Ritchie 1 ,30 - 60 Minutes,2,0,212,16,No,1,Connors Hill Ward,1 minutes 26 seconds,2
+2024-09-28 11:45,Gateway Stake Centre ,Gateway Stake,20,60 - 90 Minutes,2,0,150,20,No,1,Silver Berry Ward,9 minutes 20 seconds,2
+2024-09-28 11:52,Riverbend Stake Centre,Riverbend Stake,39,0 - 30 Minutes,2,3,195,16,No,1,Terwillegar Park Ward,3 minutes 4 seconds,5
+2024-09-28 11:53,Bearspaw Chapel,Gateway Stake,10,0 - 30 Minutes,3,0,100,27,Yes,2,Lee Ridge Ward,2 minutes 8 seconds,3
+2024-09-28 11:54,Riverbend Stake Centre,Riverbend Stake,Butchike,0 - 30 Minutes,2,2,100,9,No,1,Rutherford Ward,1 minutes 39 seconds,4
+2024-09-28 11:52,Bonnie Doon Stake Centre,Bonnie Doon Stake,Ottewell 7,30 - 60 Minutes,2,0,147,23,No,1,Southgate Ward,3 minutes 9 seconds,2
+2024-09-28 11:44,Londonberry Chapel,Bonnie Doon Stake,10,0 - 30 Minutes,1,2,6,7,No,1,Londonderry Ward,11 minutes 3 seconds,3
+2024-09-28 11:52,Gateway Stake Centre ,Gateway Stake,37,30 - 60 Minutes,2,0,246,30,Yes,2,Crawford Plains Ward,3 minutes 49 seconds,2
+2024-09-28 11:50,Gateway Stake Centre ,Gateway Stake,18,30 - 60 Minutes,2,3,131,25,No,1,Crawford Plains Ward,5 minutes 36 seconds,5
+2024-09-28 11:55,Riverbend Stake Centre,Riverbend Stake,47,0 - 30 Minutes,2,2,172,16,No,1,Rutherford Ward,1 minutes 9 seconds,4
+2024-09-28 11:53,Edmonton North Stake Centre,Edmonton North Stake,Evansdale f ,30 - 60 Minutes,4,0,301,19,Yes,2,Griesbach Ward,4 minutes 15 seconds,4
+2024-09-28 11:49,Gateway Stake Centre ,Gateway Stake,18,60 - 90 Minutes,2,0,236,40,No,1,Ellerslie Ward,8 minutes 23 seconds,2
+2024-09-28 11:55,Bearspaw Chapel,Gateway Stake,9,0 - 30 Minutes,1,4,19,22,No,1,Lee Ridge Ward,2 minutes 32 seconds,5
+2024-09-28 11:54,Riverbend Stake Centre,Riverbend Stake,Sweetgrass 2,30 - 60 Minutes,2,4,120,16,No,1,Greenfield Ward,3 minutes 38 seconds,6
+2024-09-28 11:54,Bearspaw Chapel,Bonnie Doon Stake,Ld2,60 - 90 Minutes,2,0,300,56,Yes,3,Southgate Ward,3 minutes 57 seconds,2
+2024-09-28 11:55,Gateway Stake Centre ,Gateway Stake,6,60 - 90 Minutes,5,2,27,31,No,1,Lee Ridge Ward,2 minutes 43 seconds,7
+2024-09-28 11:56,Gateway Stake Centre ,Gateway Stake,2,30 - 60 Minutes,1,3,236,32,No,1,Silver Berry Ward,1 minutes 55 seconds,4
+2024-09-28 11:54,Bearspaw Chapel,Gateway Stake,7,0 - 30 Minutes,3,0,90,30,No,1,Blackmud Creek Ward,4 minutes 22 seconds,3
+2024-09-28 11:55,Riverbend Stake Centre,Riverbend Stake,32/Todd Coleman,60 - 90 Minutes,4,3,145,21,Yes,2,Rabbit Hill Ward,3 minutes 7 seconds,7
+2024-09-28 11:57,Riverbend Stake Centre,Riverbend Stake,16,30 - 60 Minutes,6,3,171,50,No,1,Terwillegar Park Ward,1 minutes 10 seconds,9
+2024-09-28 11:58,Edmonton North Stake Centre,Edmonton North Stake,4-3.2,30 - 60 Minutes,1,1,240,31,No,1,Namao Ward,1 minutes 38 seconds,2
+2024-09-28 11:55,Riverbend Stake Centre,Riverbend Stake,60,90 - 120 Minutes,2,1,223,100,No,1,Terwillegar Park Ward,4 minutes 39 seconds,3
+2024-09-28 11:53,Londonberry Chapel,Bonnie Doon Stake,199,60 - 90 Minutes,1,2,160,19,No,1,Clareview Ward,7 minutes 0 seconds,3
+2024-09-28 11:58,Bearspaw Chapel,Gateway Stake,46,90 - 120 Minutes,2,4,186,21,No,1,Blackmud Creek Ward,3 minutes 0 seconds,6
+2024-09-28 11:59,Gateway Stake Centre ,Gateway Stake,32,30 - 60 Minutes,2,2,200,30,Yes,2,Crawford Plains Ward,2 minutes 34 seconds,4
+2024-09-28 11:59,Riverbend Stake Centre,Riverbend Stake,Stewarts,60 - 90 Minutes,2,2,500,58,Yes,3,Rabbit Hill Ward,2 minutes 52 seconds,4
+2024-09-28 11:54,Londonberry Chapel,Bonnie Doon Stake,169,0 - 30 Minutes,2,1,126,9,No,1,Clareview Ward,7 minutes 27 seconds,3
+2024-09-28 11:57,Bearspaw Chapel,Gateway Stake,68,60 - 90 Minutes,1,2,147,36,Yes,2,Lee Ridge Ward,4 minutes 14 seconds,3
+2024-09-28 12:00,Gateway Stake Centre ,Gateway Stake,65,30 - 60 Minutes,2,0,137,28,No,1,Lee Ridge Ward,1 minutes 31 seconds,2
+2024-09-28 12:02,Bearspaw Chapel,Bonnie Doon Stake,LD1,60 - 90 Minutes,2,4,158,35,No,1,Southgate Ward,1 minutes 24 seconds,6
+2024-09-28 12:00,Londonberry Chapel,Bonnie Doon Stake,160,60 - 90 Minutes,2,0,19,19,Yes,2,Clareview Ward,3 minutes 8 seconds,2
+2024-09-28 11:58,Gateway Stake Centre ,Gateway Stake,31/lee ridge,0 - 30 Minutes,3,0,175,30,No,1,Silver Berry Ward,5 minutes 45 seconds,3
+2024-09-28 11:58,Riverbend Stake Centre,Riverbend Stake,197,30 - 60 Minutes,2,2,197,45,No,1,Greenfield Ward,6 minutes 20 seconds,4
+2024-09-28 12:03,Edmonton North Stake Centre,Edmonton North Stake,Caernarvon C,0 - 30 Minutes,1,3,96,16,No,1,Griesbach Ward,1 minutes 12 seconds,4
+2024-09-28 11:54,Riverbend Stake Centre,Riverbend Stake,lymburn 5 ,60 - 90 Minutes,5,0,326,53,Yes,2,Terwillegar Park Ward,10 minutes 54 seconds,5
+2024-09-28 11:58,Riverbend Stake Centre,Riverbend Stake,4,30 - 60 Minutes,2,0,139,19,No,1,Rutherford Ward,7 minutes 7 seconds,2
+2024-09-28 12:03,Londonberry Chapel,Bonnie Doon Stake,184,0 - 30 Minutes,1,1,300,27,Yes,3,Clareview Ward,2 minutes 51 seconds,2
+2024-09-28 11:56,Gateway Stake Centre ,Gateway Stake,90 street sw,90 - 120 Minutes,2,6,300,50,Yes,2,Blackmud Creek Ward,9 minutes 36 seconds,8
+2024-09-28 12:05,Bonnie Doon Stake Centre,Bonnie Doon Stake,1,30 - 60 Minutes,1,0,50,10,No,1,Forest Heights Ward,1 minutes 8 seconds,1
+2024-09-28 12:00,Bearspaw Chapel,Gateway Stake,0,60 - 90 Minutes,1,2,0,45,No,1,Lee Ridge Ward,6 minutes 5 seconds,3
+2024-09-28 12:02,Riverbend Stake Centre,Riverbend Stake,46,60 - 90 Minutes,3,0,350,45,Yes,2,Rutherford Ward,5 minutes 2 seconds,3
+2024-09-28 12:02,Gateway Stake Centre ,Gateway Stake,29,60 - 90 Minutes,4,1,203,30,No,1,Silver Berry Ward,5 minutes 3 seconds,5
+2024-09-28 11:49,Londonberry Chapel,Bonnie Doon Stake,8,30 - 60 Minutes,2,0,31,39,No,1,Londonderry Ward,17 minutes 59 seconds,2
+2024-09-28 11:56,Londonberry Chapel,Bonnie Doon Stake,23,60 - 90 Minutes,2,0,50,40,No,1,Londonderry Ward,12 minutes 1 seconds,2
+2024-09-28 12:04,Gateway Stake Centre ,Gateway Stake,39,60 - 90 Minutes,2,1,176,20,Yes,2,Ellerslie Ward,4 minutes 8 seconds,3
+2024-09-28 12:04,Riverbend Stake Centre,Riverbend Stake,"18,19",60 - 90 Minutes,3,1,354,59,Yes,2,Rabbit Hill Ward,4 minutes 27 seconds,4
+2024-09-28 12:02,Gateway Stake Centre ,Gateway Stake,70,30 - 60 Minutes,2,2,100,12,No,1,Crawford Plains Ward,7 minutes 14 seconds,4
+2024-09-28 12:05,Bonnie Doon Stake Centre,Bonnie Doon Stake,goldbar 1,90 - 120 Minutes,1,2,185,25,Yes,2,Connors Hill Ward,3 minutes 31 seconds,3
+2024-09-28 12:08,Londonberry Chapel,Bonnie Doon Stake,19,60 - 90 Minutes,2,0,30,40,No,1,Londonderry Ward,1 minutes 21 seconds,2
+2024-09-28 12:07,Gateway Stake Centre ,Gateway Stake,30,30 - 60 Minutes,2,0,174,25,No,1,Silver Berry Ward,2 minutes 46 seconds,2
+2024-09-28 12:07,Riverbend Stake Centre,Riverbend Stake,Brookside 1,0 - 30 Minutes,1,5,66,12,Yes,2,Rabbit Hill Ward,3 minutes 1 seconds,6
+2024-09-28 12:06,Gateway Stake Centre ,Gateway Stake,10,90 - 120 Minutes,3,8,400,41,Yes,3,Crawford Plains Ward,4 minutes 6 seconds,11
+2024-09-28 12:10,Edmonton North Stake Centre,Edmonton North Stake,Caernarvon B,90 - 120 Minutes,2,0,160,32,No,1,Griesbach Ward,0 minutes 5 seconds,2
+2024-09-28 12:00,Riverbend Stake Centre,Riverbend Stake,Ag2,60 - 90 Minutes,2,3,209,80,No,1,Greenfield Ward,10 minutes 5 seconds,5
+2024-09-28 12:09,Gateway Stake Centre ,Gateway Stake,56 Daly Grove,0 - 30 Minutes,1,0,138,4,No,1,Rio Vista Ward,2 minutes 23 seconds,1
+2024-09-28 12:03,Londonberry Chapel,Bonnie Doon Stake,128,30 - 60 Minutes,0,2,0,30,No,1,Clareview Ward,8 minutes 4 seconds,2
+2024-09-28 12:09,Bonnie Doon Stake Centre,Bonnie Doon Stake,Ottewell 8,60 - 90 Minutes,2,0,242,46,No,1,Connors Hill Ward,2 minutes 48 seconds,2
+2024-09-28 12:07,Bonnie Doon Stake Centre,Bonnie Doon Stake,1,30 - 60 Minutes,2,0,150,25,No,1,Connors Hill Ward,5 minutes 14 seconds,2
+2024-09-28 12:08,Londonberry Chapel,Bonnie Doon Stake,39,30 - 60 Minutes,2,9,20,26,No,1,Londonderry Ward,4 minutes 18 seconds,11
+2024-09-28 12:09,Riverbend Stake Centre,Riverbend Stake,12,60 - 90 Minutes,4,0,346,73,No,1,Terwillegar Park Ward,3 minutes 22 seconds,4
+2024-09-28 12:07,Edmonton North Stake Centre,Edmonton North Stake,3-1.1a,60 - 90 Minutes,3,0,135,14,No,1,Namao Ward,5 minutes 3 seconds,3
+2024-09-28 12:10,Riverbend Stake Centre,Riverbend Stake,10,30 - 60 Minutes,4,0,250,54,No,1,Terwillegar Park Ward,2 minutes 44 seconds,4
+2024-09-28 12:11,Gateway Stake Centre ,Gateway Stake,44,60 - 90 Minutes,1,2,166,24,No,1,Lee Ridge Ward,2 minutes 3 seconds,3
+2024-09-28 12:10,Gateway Stake Centre ,Gateway Stake,44,0 - 30 Minutes,1,1,200,58,Yes,3,Ellerslie Ward,2 minutes 48 seconds,2
+2024-09-28 12:09,Gateway Stake Centre ,Gateway Stake,15,30 - 60 Minutes,3,2,207,36,No,1,Ellerslie Ward,4 minutes 11 seconds,5
+2024-09-28 12:12,Riverbend Stake Centre,Riverbend Stake,18,0 - 30 Minutes,4,4,100,25,No,1,Woodbend Ward,2 minutes 16 seconds,8
+2024-09-28 12:13,Riverbend Stake Centre,Riverbend Stake,15,30 - 60 Minutes,4,1,60,14,No,1,Woodbend Ward,1 minutes 54 seconds,5
+2024-09-28 12:06,Riverbend Stake Centre,Riverbend Stake,45,60 - 90 Minutes,1,4,250,56,No,1,Terwillegar Park Ward,9 minutes 13 seconds,5
+2024-09-28 12:13,Gateway Stake Centre ,Gateway Stake,"5,8",60 - 90 Minutes,1,1,100,30,Yes,2,Ellerslie Ward,1 minutes 36 seconds,2
+2024-09-28 12:13,Gateway Stake Centre ,Gateway Stake,46,30 - 60 Minutes,2,4,264,35,No,1,Silver Berry Ward,2 minutes 43 seconds,6
+2024-09-28 12:11,Londonberry Chapel,Bonnie Doon Stake,205,60 - 90 Minutes,1,0,65,70,Yes,2,Clareview Ward,4 minutes 23 seconds,1
+2024-09-28 12:06,Londonberry Chapel,Bonnie Doon Stake,138,90 - 120 Minutes,2,0,49,73,Yes,3,Clareview Ward,10 minutes 14 seconds,2
+2024-09-28 12:13,Gateway Stake Centre ,Gateway Stake,32,30 - 60 Minutes,2,2,205,10,Yes,2,Ellerslie Ward,3 minutes 14 seconds,4
+2024-09-28 12:15,Riverbend Stake Centre,Riverbend Stake,42,60 - 90 Minutes,2,0,160,42,No,1,Terwillegar Park Ward,1 minutes 44 seconds,2
+2024-09-28 12:15,Edmonton North Stake Centre,Edmonton North Stake,3-2.2B,30 - 60 Minutes,2,1,106,23,No,1,Namao Ward,1 minutes 53 seconds,3
+2024-09-28 12:15,Riverbend Stake Centre,Riverbend Stake,49,60 - 90 Minutes,3,0,195,29,No,1,Terwillegar Park Ward,2 minutes 41 seconds,3
+2024-09-28 12:13,Gateway Stake Centre ,Gateway Stake,36,60 - 90 Minutes,2,1,140,20,No,1,Crawford Plains Ward,4 minutes 46 seconds,3
+2024-09-28 12:01,Bearspaw Chapel,Riverbend Stake,Ld7,60 - 90 Minutes,2,4,127,58,No,1,Rabbit Hill Ward,17 minutes 40 seconds,6
+2024-09-28 12:11,Riverbend Stake Centre,Riverbend Stake,Terwiliger park,60 - 90 Minutes,2,0,175,25,Yes,2,Rabbit Hill Ward,7 minutes 38 seconds,2
+2024-09-28 12:10,Edmonton North Stake Centre,Edmonton North Stake,0,30 - 60 Minutes,2,0,200,22,No,1,Namao Ward,8 minutes 35 seconds,2
+2024-09-28 12:17,Riverbend Stake Centre,Riverbend Stake,38,60 - 90 Minutes,4,9,171,26,No,1,Terwillegar Park Ward,2 minutes 17 seconds,13
+2024-09-28 12:15,Gateway Stake Centre ,Gateway Stake,1,30 - 60 Minutes,2,4,245,25,Yes,2,Crawford Plains Ward,4 minutes 11 seconds,6
+2024-09-28 12:19,Bearspaw Chapel,Bonnie Doon Stake,3,90 - 120 Minutes,2,2,150,46,Yes,2,Southgate Ward,0 minutes 47 seconds,4
+2024-09-28 12:18,Edmonton North Stake Centre,Edmonton North Stake,Carlisle C,30 - 60 Minutes,2,0,150,16,No,1,Griesbach Ward,1 minutes 33 seconds,2
+2024-09-28 12:19,Riverbend Stake Centre,Riverbend Stake,54,0 - 30 Minutes,2,4,136,20,No,1,Rutherford Ward,1 minutes 18 seconds,6
+2024-09-28 12:17,Riverbend Stake Centre,Riverbend Stake,43 - ramsay heights,60 - 90 Minutes,3,2,164,30,No,1,Terwillegar Park Ward,3 minutes 35 seconds,5
+2024-09-28 12:17,Gateway Stake Centre ,Gateway Stake,13,60 - 90 Minutes,2,4,300,75,Yes,3,Ellerslie Ward,3 minutes 58 seconds,6
+2024-09-28 12:16,Londonberry Chapel,Bonnie Doon Stake,205,60 - 90 Minutes,1,0,225,80,Yes,2,Clareview Ward,4 minutes 52 seconds,1
+2024-09-28 12:18,Gateway Stake Centre ,Gateway Stake,28,30 - 60 Minutes,2,3,230,42,Yes,2,Ellerslie Ward,3 minutes 21 seconds,5
+2024-09-28 12:18,Bearspaw Chapel,Gateway Stake,16,0 - 30 Minutes,2,2,0,55,Yes,3,Lee Ridge Ward,4 minutes 51 seconds,4
+2024-09-28 12:16,Gateway Stake Centre ,Gateway Stake,Satoo/route #s 3 & 5,60 - 90 Minutes,1,1,312,150,Yes,2,Rio Vista Ward,7 minutes 30 seconds,2
+2024-09-28 12:22,Gateway Stake Centre ,Gateway Stake,55,30 - 60 Minutes,2,2,159,15,No,1,Lee Ridge Ward,2 minutes 2 seconds,4
+2024-09-28 12:22,Riverbend Stake Centre,Riverbend Stake,9,90 - 120 Minutes,4,2,428,75,Yes,2,Rabbit Hill Ward,2 minutes 29 seconds,6
+2024-09-28 12:21,Riverbend Stake Centre,Riverbend Stake,40,30 - 60 Minutes,1,2,100,12,No,1,Terwillegar Park Ward,3 minutes 41 seconds,3
+2024-09-28 12:21,Gateway Stake Centre ,Gateway Stake,16,0 - 30 Minutes,1,5,239,32,Yes,2,Ellerslie Ward,3 minutes 34 seconds,6
+2024-09-28 12:19,Gateway Stake Centre ,Gateway Stake,6,90 - 120 Minutes,2,0,400,50,Yes,3,Crawford Plains Ward,6 minutes 0 seconds,2
+2024-09-28 12:22,Londonberry Chapel,Bonnie Doon Stake,135,30 - 60 Minutes,2,2,90,17,Yes,2,Clareview Ward,3 minutes 31 seconds,4
+2024-09-28 12:19,Edmonton North Stake Centre,Edmonton North Stake,"Carlisle A, Carlisle B",30 - 60 Minutes,3,0,300,24,Yes,2,Griesbach Ward,7 minutes 7 seconds,3
+2024-09-28 12:23,Bearspaw Chapel,Gateway Stake,20,90 - 120 Minutes,2,1,260,100,No,1,Blackmud Creek Ward,3 minutes 36 seconds,3
+2024-09-28 12:10,Londonberry Chapel,Bonnie Doon Stake,36,0 - 30 Minutes,2,3,16,19,Yes,2,Londonderry Ward,17 minutes 5 seconds,5
+2024-09-28 12:26,Londonberry Chapel,Bonnie Doon Stake,126,30 - 60 Minutes,2,2,125,21,Yes,2,Clareview Ward,1 minutes 1 seconds,4
+2024-09-28 12:25,Riverbend Stake Centre,Riverbend Stake,Greenfield #5,60 - 90 Minutes,1,1,184,45,No,1,Greenfield Ward,2 minutes 4 seconds,2
+2024-09-28 12:10,Riverbend Stake Centre,Riverbend Stake,8 and 11,90 - 120 Minutes,1,3,600,118,Yes,2,Woodbend Ward,16 minutes 47 seconds,4
+2024-09-28 12:25,Gateway Stake Centre ,Gateway Stake,21,60 - 90 Minutes,1,2,134,30,No,1,Crawford Plains Ward,2 minutes 45 seconds,3
+2024-09-28 12:24,Gateway Stake Centre ,Gateway Stake,79/194bags,30 - 60 Minutes,2,0,270,50,Yes,2,Rio Vista Ward,4 minutes 9 seconds,2
+2024-09-28 12:25,Riverbend Stake Centre,Riverbend Stake,"30, 28, 43",60 - 90 Minutes,3,2,500,65,Yes,1,Rabbit Hill Ward,2 minutes 48 seconds,5
+2024-09-28 12:25,Gateway Stake Centre ,Gateway Stake,22,60 - 90 Minutes,1,0,138,6,No,1,Crawford Plains Ward,3 minutes 31 seconds,1
+2024-09-28 12:25,Gateway Stake Centre ,Gateway Stake,65,0 - 30 Minutes,2,2,119,14,No,1,Crawford Plains Ward,4 minutes 23 seconds,4
+2024-09-28 12:16,Riverbend Stake Centre,Riverbend Stake,Unkown,30 - 60 Minutes,5,0,326,53,Yes,2,Terwillegar Park Ward,12 minutes 53 seconds,5
+2024-09-28 12:27,Edmonton North Stake Centre,Edmonton North Stake,grey stone manor,30 - 60 Minutes,2,2,70,7,Yes,2,Namao Ward,2 minutes 34 seconds,4
+2024-09-28 12:28,Gateway Stake Centre ,Gateway Stake,43 and 44,30 - 60 Minutes,4,0,278,35,No,1,Crawford Plains Ward,2 minutes 28 seconds,4
+2024-09-28 12:27,Riverbend Stake Centre,Riverbend Stake,50,30 - 60 Minutes,3,0,329,15,No,1,Rutherford Ward,2 minutes 47 seconds,3
+2024-09-28 12:28,Bearspaw Chapel,Gateway Stake,32,30 - 60 Minutes,1,1,152,30,No,1,Lee Ridge Ward,2 minutes 36 seconds,2
+2024-09-28 12:28,Riverbend Stake Centre,Riverbend Stake,Blue quill estate 2,30 - 60 Minutes,2,3,210,25,No,1,Greenfield Ward,2 minutes 21 seconds,5
+2024-09-28 12:29,Londonberry Chapel,Bonnie Doon Stake,120,0 - 30 Minutes,2,1,18,25,No,1,Clareview Ward,2 minutes 38 seconds,3
+2024-09-28 12:30,Gateway Stake Centre ,Gateway Stake,27,30 - 60 Minutes,2,3,205,25,No,1,Ellerslie Ward,2 minutes 40 seconds,5
+2024-09-28 12:30,Gateway Stake Centre ,Gateway Stake,4,0 - 30 Minutes,3,0,168,25,No,1,Silver Berry Ward,2 minutes 21 seconds,3
+2024-09-28 12:30,Gateway Stake Centre ,Gateway Stake,12,60 - 90 Minutes,2,5,216,46,No,1,Ellerslie Ward,2 minutes 40 seconds,7
+2024-09-28 12:29,Edmonton North Stake Centre,Edmonton North Stake,6-2.1 197,90 - 120 Minutes,1,4,100,18,No,1,Namao Ward,4 minutes 18 seconds,5
+2024-09-28 12:30,Riverbend Stake Centre,Riverbend Stake,Sweet grass 3,30 - 60 Minutes,2,4,200,49,No,1,Greenfield Ward,2 minutes 53 seconds,6
+2024-09-28 12:13,Bonnie Doon Stake Centre,Bonnie Doon Stake,77,90 - 120 Minutes,3,0,200,30,No,1,Forest Heights Ward,20 minutes 29 seconds,3
+2024-09-28 12:31,Bearspaw Chapel,Gateway Stake,1,60 - 90 Minutes,2,2,410,45,Yes,3,Lee Ridge Ward,2 minutes 54 seconds,4
+2024-09-28 12:33,Gateway Stake Centre ,Gateway Stake,66,60 - 90 Minutes,1,2,146,25,No,1,Lee Ridge Ward,3 minutes 13 seconds,3
+2024-09-28 12:33,Riverbend Stake Centre,Riverbend Stake,14,60 - 90 Minutes,1,2,262,40,No,1,Terwillegar Park Ward,2 minutes 41 seconds,3
+2024-09-28 12:27,Bonnie Doon Stake Centre,Bonnie Doon Stake,Ottewell 1,0 - 30 Minutes,2,3,241,23,Yes,2,Connors Hill Ward,8 minutes 39 seconds,5
+2024-09-28 12:30,Edmonton North Stake Centre,Edmonton North Stake,2-1.1,90 - 120 Minutes,2,2,498,55,No,1,Namao Ward,6 minutes 4 seconds,4
+2024-09-28 12:35,Bonnie Doon Stake Centre,Bonnie Doon Stake,36,0 - 30 Minutes,4,0,167,30,No,1,Connors Hill Ward,1 minutes 13 seconds,4
+2024-09-28 12:35,Bonnie Doon Stake Centre,Bonnie Doon Stake,63,60 - 90 Minutes,2,1,25,12,No,1,Connors Hill Ward,2 minutes 4 seconds,3
+2024-09-28 12:35,Bearspaw Chapel,Gateway Stake,21,30 - 60 Minutes,2,3,240,35,No,1,Blackmud Creek Ward,2 minutes 40 seconds,5
+2024-09-28 12:33,Riverbend Stake Centre,Riverbend Stake,Greenfield #1,30 - 60 Minutes,2,0,150,34,No,1,Terwillegar Park Ward,5 minutes 20 seconds,2
+2024-09-28 12:36,Gateway Stake Centre ,Gateway Stake,17,30 - 60 Minutes,2,1,500,62,Yes,2,Ellerslie Ward,2 minutes 18 seconds,3
+2024-09-28 12:37,Bonnie Doon Stake Centre,Bonnie Doon Stake,Ottewell 5,0 - 30 Minutes,2,3,209,15,Yes,2,Connors Hill Ward,1 minutes 50 seconds,5
+2024-09-28 12:36,Riverbend Stake Centre,Riverbend Stake,17,90 - 120 Minutes,2,4,312,60,Yes,2,Terwillegar Park Ward,2 minutes 17 seconds,6
+2024-09-28 12:29,Gateway Stake Centre ,Gateway Stake,75,30 - 60 Minutes,2,1,149,25,No,1,Rio Vista Ward,9 minutes 31 seconds,3
+2024-09-28 12:37,Bonnie Doon Stake Centre,Bonnie Doon Stake,Avonmore 1,0 - 30 Minutes,4,0,167,25,No,1,Connors Hill Ward,2 minutes 18 seconds,4
+2024-09-28 11:01,Bonnie Doon Stake Centre,Bonnie Doon Stake,King Edward Park 1,90 - 120 Minutes,1,0,522,80,Yes,2,Connors Hill Ward,97 minutes 42 seconds,1
+2024-09-28 12:34,Edmonton North Stake Centre,Edmonton North Stake,Wellington ABCD,90 - 120 Minutes,3,0,800,66,Yes,3,Griesbach Ward,6 minutes 38 seconds,3
+2024-09-28 12:38,Gateway Stake Centre ,Gateway Stake,40,30 - 60 Minutes,1,0,115,7,No,1,Beaumont Ward,1 minutes 53 seconds,1
+2024-09-28 12:38,Riverbend Stake Centre,Riverbend Stake,4,30 - 60 Minutes,2,4,250,47,No,1,Woodbend Ward,2 minutes 37 seconds,6
+2024-09-28 12:39,Riverbend Stake Centre,Riverbend Stake,"65, 67, 68",30 - 60 Minutes,2,0,282,54,Yes,3,Rabbit Hill Ward,2 minutes 14 seconds,2
+2024-09-28 12:36,Riverbend Stake Centre,Riverbend Stake,BQ5,60 - 90 Minutes,2,3,180,42,No,1,Greenfield Ward,5 minutes 11 seconds,5
+2024-09-28 12:37,Bearspaw Chapel,Gateway Stake,28,60 - 90 Minutes,3,4,377,71,Yes,2,Blackmud Creek Ward,4 minutes 8 seconds,7
+2024-09-28 12:41,Riverbend Stake Centre,Riverbend Stake,63,60 - 90 Minutes,2,2,101,19,No,1,Terwillegar Park Ward,1 minutes 51 seconds,4
+2024-09-28 12:41,Londonberry Chapel,Bonnie Doon Stake,138,0 - 30 Minutes,2,1,0,5,No,1,Clareview Ward,2 minutes 23 seconds,3
+2024-09-28 12:39,Gateway Stake Centre ,Gateway Stake,40,0 - 30 Minutes,2,0,140,17,No,1,Ellerslie Ward,4 minutes 56 seconds,2
+2024-09-28 12:40,Edmonton North Stake Centre,Edmonton North Stake,Dovercourt C,30 - 60 Minutes,2,5,142,20,No,1,Griesbach Ward,4 minutes 26 seconds,7
+2024-09-28 12:43,Londonberry Chapel,Bonnie Doon Stake,1,30 - 60 Minutes,1,1,8,10,No,1,Londonderry Ward,1 minutes 18 seconds,2
+2024-09-28 12:44,Riverbend Stake Centre,Riverbend Stake,Greenfield 6,30 - 60 Minutes,2,3,211,37,No,1,Greenfield Ward,1 minutes 15 seconds,5
+2024-09-28 12:43,Bearspaw Chapel,Gateway Stake,35,30 - 60 Minutes,2,3,200,25,No,1,Blackmud Creek Ward,2 minutes 22 seconds,5
+2024-09-28 12:19,Bonnie Doon Stake Centre,Bonnie Doon Stake,Poll 81,0 - 30 Minutes,2,2,225,20,No,1,Forest Heights Ward,26 minutes 59 seconds,4
+2024-09-28 12:43,Riverbend Stake Centre,Riverbend Stake,Blue quill1,30 - 60 Minutes,2,0,500,38,No,1,Greenfield Ward,3 minutes 16 seconds,2
+2024-09-28 12:46,Riverbend Stake Centre,Riverbend Stake,20,60 - 90 Minutes,2,4,300,50,No,1,Woodbend Ward,0 minutes 58 seconds,6
+2024-09-28 12:46,Bearspaw Chapel,Gateway Stake,67,0 - 30 Minutes,4,0,155,21,No,1,Lee Ridge Ward,1 minutes 43 seconds,4
+2024-09-28 12:40,Gateway Stake Centre ,Gateway Stake,76,30 - 60 Minutes,2,0,171,12,No,1,Crawford Plains Ward,7 minutes 45 seconds,2
+2024-09-28 12:19,Riverbend Stake Centre,Riverbend Stake,55,60 - 90 Minutes,3,1,192,37,No,1,Terwillegar Park Ward,31 minutes 22 seconds,4
+2024-09-28 12:47,Riverbend Stake Centre,Riverbend Stake,17,60 - 90 Minutes,3,0,215,38,No,1,Rabbit Hill Ward,3 minutes 9 seconds,3
+2024-09-28 12:47,Gateway Stake Centre ,Gateway Stake,13,30 - 60 Minutes,3,4,188,27,Yes,3,Silver Berry Ward,3 minutes 29 seconds,7
+2024-09-28 12:46,Riverbend Stake Centre,Riverbend Stake,51,60 - 90 Minutes,2,0,302,65,No,1,Rabbit Hill Ward,4 minutes 57 seconds,2
+2024-09-28 12:42,Riverbend Stake Centre,Riverbend Stake,22,60 - 90 Minutes,2,2,360,30,Yes,2,Rutherford Ward,10 minutes 2 seconds,4
+2024-09-28 12:46,Edmonton North Stake Centre,Edmonton North Stake,5.6,60 - 90 Minutes,5,10,800,95,No,1,Namao Ward,7 minutes 16 seconds,15
+2024-09-28 12:51,Riverbend Stake Centre,Riverbend Stake,26/27,60 - 90 Minutes,2,3,300,40,Yes,2,Terwillegar Park Ward,2 minutes 16 seconds,5
+2024-09-28 12:50,Riverbend Stake Centre,Riverbend Stake,25,60 - 90 Minutes,4,2,289,55,Yes,2,Rutherford Ward,5 minutes 48 seconds,6
+2024-09-28 12:55,Gateway Stake Centre ,Gateway Stake,55,30 - 60 Minutes,1,3,151,34,No,1,Rio Vista Ward,1 minutes 47 seconds,4
+2024-09-28 12:40,Edmonton North Stake Centre,Edmonton North Stake,Stacey Williams ,90 - 120 Minutes,2,0,800,57,Yes,1,Griesbach Ward,18 minutes 4 seconds,2
+2024-09-28 12:56,Londonberry Chapel,Bonnie Doon Stake,27,30 - 60 Minutes,2,0,40,3,No,1,Londonderry Ward,2 minutes 53 seconds,2
+2024-09-28 12:53,Riverbend Stake Centre,Riverbend Stake,Blue quill 3,30 - 60 Minutes,2,2,200,42,No,1,Greenfield Ward,5 minutes 56 seconds,4
+2024-09-28 12:59,Riverbend Stake Centre,Riverbend Stake,12,30 - 60 Minutes,2,2,300,35,No,1,Woodbend Ward,1 minutes 28 seconds,4
+2024-09-28 12:56,Gateway Stake Centre ,Gateway Stake,34,60 - 90 Minutes,2,2,257,31,Yes,2,Crawford Plains Ward,4 minutes 19 seconds,4
+2024-09-28 12:59,Edmonton North Stake Centre,Edmonton North Stake,5-1.2,30 - 60 Minutes,1,1,433,39,No,1,Namao Ward,1 minutes 58 seconds,2
+2024-09-28 12:58,Riverbend Stake Centre,Riverbend Stake,54,90 - 120 Minutes,1,2,182,43,Yes,2,Terwillegar Park Ward,4 minutes 44 seconds,3
+2024-09-28 12:44,Gateway Stake Centre ,Gateway Stake,22,60 - 90 Minutes,1,4,300,40,No,1,Rio Vista Ward,19 minutes 44 seconds,5
+2024-09-28 12:50,Edmonton North Stake Centre,Edmonton North Stake,Caernarvon D,0 - 30 Minutes,1,2,212,20,No,1,Griesbach Ward,13 minutes 46 seconds,3
+2024-09-28 12:53,Edmonton North Stake Centre,Edmonton North Stake,2-3.1,90 - 120 Minutes,2,2,400,123,Yes,3,Namao Ward,11 minutes 37 seconds,4
+2024-09-28 13:01,Riverbend Stake Centre,Riverbend Stake,26,0 - 30 Minutes,2,0,132,16,No,1,Rabbit Hill Ward,6 minutes 28 seconds,2
+2024-09-28 12:59,Londonberry Chapel,Bonnie Doon Stake,20,90 - 120 Minutes,3,0,50,50,Yes,2,Londonderry Ward,8 minutes 49 seconds,3
+2024-09-28 13:08,Gateway Stake Centre ,Gateway Stake,47,30 - 60 Minutes,1,4,245,28,No,1,Silver Berry Ward,2 minutes 22 seconds,5
+2024-09-28 13:04,Gateway Stake Centre ,Gateway Stake,40,30 - 60 Minutes,2,1,160,29,Yes,2,Lee Ridge Ward,5 minutes 53 seconds,3
+2024-09-28 13:07,Londonberry Chapel,Bonnie Doon Stake,23,0 - 30 Minutes,2,0,131,9,Yes,2,Londonderry Ward,4 minutes 14 seconds,2
+2024-09-28 13:10,Riverbend Stake Centre,Riverbend Stake,3,60 - 90 Minutes,2,0,150,41,No,1,Greenfield Ward,1 minutes 39 seconds,2
+2024-09-28 13:09,Edmonton North Stake Centre,Edmonton North Stake,Lori lie D,30 - 60 Minutes,3,4,32,30,No,1,Griesbach Ward,3 minutes 56 seconds,7
+2024-09-28 13:12,Londonberry Chapel,Bonnie Doon Stake,121,90 - 120 Minutes,1,1,150,45,Yes,2,Clareview Ward,1 minutes 27 seconds,2
+2024-09-28 13:06,Riverbend Stake Centre,Riverbend Stake,Brayden Gregson,90 - 120 Minutes,3,0,1030,100,Yes,1,Terwillegar Park Ward,8 minutes 34 seconds,3
+2024-09-28 13:14,Gateway Stake Centre ,Gateway Stake,11,0 - 30 Minutes,3,0,233,30,No,1,Silver Berry Ward,1 minutes 20 seconds,3
+2024-09-28 13:10,Gateway Stake Centre ,Gateway Stake,5,60 - 90 Minutes,2,2,180,20,No,1,Silver Berry Ward,5 minutes 5 seconds,4
+2024-09-28 13:18,Riverbend Stake Centre,Riverbend Stake,Westbrook,60 - 90 Minutes,2,3,219,50,No,1,Greenfield Ward,1 minutes 24 seconds,5
+2024-09-28 13:12,Londonberry Chapel,Bonnie Doon Stake,28,0 - 30 Minutes,2,0,15,12,No,1,Londonderry Ward,8 minutes 26 seconds,2
+2024-09-28 13:22,Riverbend Stake Centre,Riverbend Stake,9. C 283,60 - 90 Minutes,2,0,283,51,No,1,Terwillegar Park Ward,3 minutes 38 seconds,2
+2024-09-28 13:15,Riverbend Stake Centre,Riverbend Stake,44,60 - 90 Minutes,2,1,175,40,Yes,3,Rabbit Hill Ward,11 minutes 28 seconds,3
+2024-09-28 13:23,Riverbend Stake Centre,Riverbend Stake,72,90 - 120 Minutes,1,5,132,22,Yes,2,Rabbit Hill Ward,4 minutes 57 seconds,6
+2024-09-28 13:26,Riverbend Stake Centre,Riverbend Stake,19,60 - 90 Minutes,2,3,350,49,Yes,2,Terwillegar Park Ward,3 minutes 9 seconds,5
+2024-09-28 13:04,Gateway Stake Centre ,Gateway Stake,81,90 - 120 Minutes,2,4,730,64,Yes,1,Crawford Plains Ward,28 minutes 21 seconds,6
+2024-09-28 13:29,Riverbend Stake Centre,Riverbend Stake,42,30 - 60 Minutes,1,0,150,20,No,1,Rutherford Ward,3 minutes 51 seconds,1
+2024-09-28 13:29,Gateway Stake Centre ,Gateway Stake,38,60 - 90 Minutes,2,2,339,40,No,1,Silver Berry Ward,3 minutes 46 seconds,4
+2024-09-28 13:29,Riverbend Stake Centre,Riverbend Stake,60,90 - 120 Minutes,2,1,181,60,Yes,3,Rabbit Hill Ward,5 minutes 2 seconds,3
+2024-09-28 13:33,Gateway Stake Centre ,Gateway Stake,59,30 - 60 Minutes,1,1,146,22,No,1,Lee Ridge Ward,1 minutes 57 seconds,2
+2024-09-28 13:32,Gateway Stake Centre ,Gateway Stake,14,30 - 60 Minutes,2,0,225,30,No,1,Ellerslie Ward,4 minutes 0 seconds,2
+2024-09-28 13:35,Riverbend Stake Centre,Riverbend Stake,I dont remember,0 - 30 Minutes,2,3,142,23,No,1,Rutherford Ward,2 minutes 34 seconds,5
+2024-09-28 13:29,Edmonton North Stake Centre,Edmonton North Stake,Belle Rive B C D E F ,90 - 120 Minutes,2,0,950,133,Yes,1,Griesbach Ward,10 minutes 45 seconds,2
+2024-09-28 13:38,Riverbend Stake Centre,Riverbend Stake,Sweetgrass 1,30 - 60 Minutes,2,4,100,28,No,1,Greenfield Ward,1 minutes 47 seconds,6
+2024-09-28 13:39,Bearspaw Chapel,Gateway Stake,11,60 - 90 Minutes,4,4,11,16,Yes,3,Lee Ridge Ward,2 minutes 37 seconds,8
+2024-09-28 13:42,Bearspaw Chapel,Gateway Stake,41,60 - 90 Minutes,4,4,158,24,Yes,3,Lee Ridge Ward,1 minutes 29 seconds,8
+2024-09-28 13:15,Gateway Stake Centre ,Gateway Stake,66,90 - 120 Minutes,1,0,260,200,Yes,2,Crawford Plains Ward,28 minutes 40 seconds,1
+2024-09-28 13:43,Bearspaw Chapel,Gateway Stake,28 Lee ridge,60 - 90 Minutes,2,0,159,29,No,1,Lee Ridge Ward,2 minutes 25 seconds,2
+2024-09-28 13:43,Bearspaw Chapel,Gateway Stake,12,60 - 90 Minutes,4,4,153,25,Yes,3,Lee Ridge Ward,2 minutes 1 seconds,8
+2024-09-28 13:35,Gateway Stake Centre ,Gateway Stake,57,60 - 90 Minutes,2,2,126,20,Yes,3,Rio Vista Ward,11 minutes 0 seconds,4
+2024-09-28 13:45,Gateway Stake Centre ,Gateway Stake,14,30 - 60 Minutes,3,4,206,32,Yes,3,Silver Berry Ward,1 minutes 32 seconds,7
+2024-09-28 13:46,Gateway Stake Centre ,Gateway Stake,15,30 - 60 Minutes,3,4,202,27,Yes,3,Silver Berry Ward,1 minutes 4 seconds,7
+2024-09-28 13:43,Edmonton North Stake Centre,Edmonton North Stake,Sherbrooke D,60 - 90 Minutes,3,1,313,45,Yes,2,Griesbach Ward,4 minutes 12 seconds,4
+2024-09-28 13:48,Edmonton North Stake Centre,Edmonton North Stake,Sherbrooke B,0 - 30 Minutes,3,1,140,18,No,1,Griesbach Ward,1 minutes 26 seconds,4
+2024-09-28 13:50,Edmonton North Stake Centre,Edmonton North Stake,Caernarvon E,60 - 90 Minutes,3,0,300,47,Yes,2,Griesbach Ward,3 minutes 31 seconds,3
+2024-09-28 14:00,Edmonton North Stake Centre,Edmonton North Stake,Wellington EF,30 - 60 Minutes,1,4,200,40,Yes,2,Griesbach Ward,7 minutes 21 seconds,5
+2024-09-28 14:19,Edmonton North Stake Centre,Edmonton North Stake,2-2.4,60 - 90 Minutes,1,0,151,16,No,1,Namao Ward,3 minutes 11 seconds,1
+2024-09-28 14:24,Bearspaw Chapel,Gateway Stake,38,0 - 30 Minutes,2,4,169,18,Yes,1,Lee Ridge Ward,2 minutes 47 seconds,6
+2024-09-28 14:27,Bearspaw Chapel,Gateway Stake,33,0 - 30 Minutes,4,4,165,23,Yes,1,Lee Ridge Ward,6 minutes 11 seconds,8
+2024-09-28 14:33,Bearspaw Chapel,Gateway Stake,34,0 - 30 Minutes,4,4,166,10,Yes,1,Lee Ridge Ward,1 minutes 28 seconds,8
+2024-09-28 14:35,Bearspaw Chapel,Gateway Stake,37,0 - 30 Minutes,2,4,163,17,Yes,1,Lee Ridge Ward,1 minutes 19 seconds,6
+2024-09-28 17:46,Bearspaw Chapel,Gateway Stake,47,0 - 30 Minutes,2,2,95,20,No,1,Blackmud Creek Ward,1 minutes 18 seconds,4
+2024-09-28 18:24,Bonnie Doon Stake Centre,Bonnie Doon Stake,98 & 101 Av,30 - 60 Minutes,1,0,40,15,No,1,Clareview Ward,6 minutes 21 seconds,1
+2024-09-28 18:30,Bonnie Doon Stake Centre,Bonnie Doon Stake,Argyl 2,30 - 60 Minutes,2,1,150,15,No,1,Clareview Ward,0 minutes 58 seconds,3
+2024-09-28 18:31,Bonnie Doon Stake Centre,Bonnie Doon Stake,Ottowell 3,0 - 30 Minutes,1,2,100,15,No,1,Connors Hill Ward,0 minutes 56 seconds,3
+2024-09-28 18:32,Bonnie Doon Stake Centre,Bonnie Doon Stake,76 Av - 96th,60 - 90 Minutes,2,0,50,15,No,1,Londonderry Ward,1 minutes 14 seconds,2
+2024-09-28 18:33,Bonnie Doon Stake Centre,Bonnie Doon Stake,101 St - 84 Av - 97 St - 85 Av - 99 St,0 - 30 Minutes,1,0,50,20,No,1,Forest Heights Ward,2 minutes 20 seconds,1
+2024-09-28 18:59,Bonnie Doon Stake Centre,Bonnie Doon Stake,King Edward Park 3,30 - 60 Minutes,1,0,235,21,No,1,Forest Heights Ward,9 minutes 33 seconds,1
+2024-09-28 19:09,Bonnie Doon Stake Centre,Bonnie Doon Stake,Riverdale 2,30 - 60 Minutes,1,0,200,100,No,1,Connors Hill Ward,4 minutes 24 seconds,1
+2024-09-28 19:44,Bearspaw Chapel,Bonnie Doon Stake,AD5,60 - 90 Minutes,3,0,375,58,Yes,1,Southgate Ward,4 minutes 52 seconds,3
+2024-09-28 21:27,Bearspaw Chapel,Gateway Stake,7,30 - 60 Minutes,2,0,175,30,No,1,Lee Ridge Ward,0 minutes 52 seconds,2
+2024-09-28 21:37,Communities Outside Edmonton,Gateway Stake,7,90 - 120 Minutes,2,0,99,11,Yes,2,Wainwright Branch,4 minutes 8 seconds,2
+2024-09-28 21:41,Communities Outside Edmonton,Gateway Stake,15,90 - 120 Minutes,2,0,153,13,Yes,2,Wainwright Branch,2 minutes 13 seconds,2
+2024-09-29 12:28,Bonnie Doon Stake Centre,Bonnie Doon Stake,Strathcona 7,60 - 90 Minutes,5,0,202,26,No,1,Connors Hill Ward,12 minutes 15 seconds,5
+2024-09-30 10:32,Riverbend Stake Centre,Riverbend Stake,Ogilvie Ridge both routes,60 - 90 Minutes,2,3,200,60,Yes,2,Rabbit Hill Ward,1 minutes 31 seconds,5
+2024-09-30 10:35,Riverbend Stake Centre,Riverbend Stake,Route 4,30 - 60 Minutes,2,1,159,19,No,1,Rutherford Ward,0 minutes 47 seconds,3
+2024-09-30 10:32,Riverbend Stake Centre,Riverbend Stake,30,0 - 30 Minutes,2,4,158,24,No,1,Rutherford Ward,6 minutes 21 seconds,6
+2024-09-30 10:54,Riverbend Stake Centre,Riverbend Stake,71 Twin Brooks,60 - 90 Minutes,3,0,132,19,Yes,2,Rabbit Hill Ward,5 minutes 3 seconds,3
+2024-09-30 10:56,Bearspaw Chapel,Riverbend Stake,Midbo,60 - 90 Minutes,2,0,289,40,Yes,2,Rabbit Hill Ward,4 minutes 57 seconds,2
+2024-09-30 10:59,Riverbend Stake Centre,Riverbend Stake,69 Twin Brooks,60 - 90 Minutes,3,0,122,20,Yes,2,Rabbit Hill Ward,2 minutes 8 seconds,3
+2024-09-30 11:00,Bearspaw Chapel,Gateway Stake,3,0 - 30 Minutes,1,1,136,21,Yes,2,Lee Ridge Ward,1 minutes 48 seconds,2
+2024-09-30 11:02,Bearspaw Chapel,Gateway Stake,26,0 - 30 Minutes,1,1,166,8,Yes,2,Lee Ridge Ward,0 minutes 56 seconds,2
+2024-09-30 11:38,Riverbend Stake Centre,Riverbend Stake,14,0 - 30 Minutes,3,0,110,10,No,1,Woodbend Ward,1 minutes 52 seconds,3
+2024-09-30 11:49,Riverbend Stake Centre,Riverbend Stake,Henderson states #2,90 - 120 Minutes,1,1,250,62,No,1,Terwillegar Park Ward,2 minutes 51 seconds,2
+2024-09-30 11:30,Riverbend Stake Centre,Riverbend Stake,12,60 - 90 Minutes,2,2,60,35,No,1,Woodbend Ward,214 minutes 38 seconds,4
+2024-09-30 15:11,Riverbend Stake Centre,Riverbend Stake,Royal Gardens #4,30 - 60 Minutes,2,3,120,31,No,1,Greenfield Ward,6 minutes 49 seconds,5
+2024-09-30 16:49,Riverbend Stake Centre,Riverbend Stake,Aspen gardens ,60 - 90 Minutes,2,3,200,100,No,1,Greenfield Ward,1 minutes 8 seconds,5
+2024-09-30 17:57,Riverbend Stake Centre,Riverbend Stake,Greenfield 7,30 - 60 Minutes,2,0,211,47,No,1,Greenfield Ward,1 minutes 50 seconds,2
+2024-09-30 18:35,Riverbend Stake Centre,Riverbend Stake,70,0 - 30 Minutes,2,1,58,6,No,1,Rabbit Hill Ward,0 minutes 42 seconds,3
+2024-09-30 22:28,Bonnie Doon Stake Centre,Bonnie Doon Stake,King Edward Park 4,30 - 60 Minutes,2,0,150,23,No,1,Connors Hill Ward,3 minutes 42 seconds,2
+2024-10-01 6:46,Riverbend Stake Centre,Riverbend Stake,Greenfield 3,60 - 90 Minutes,1,0,140,33,No,1,Greenfield Ward,7 minutes 10 seconds,1
+2024-10-01 8:13,Riverbend Stake Centre,Riverbend Stake,56,60 - 90 Minutes,3,0,121,45,No,1,Terwillegar Park Ward,11 minutes 55 seconds,3
