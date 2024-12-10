@@ -97,9 +97,9 @@ def exploratory_data_analysis():
       </object>
     </div>
     <script type='text/javascript'>
-  var divElement = document.getElementById('viz1733872310940');
-  var vizElement = divElement.getElementsByTagName('object')[0];
-  if ( divElement.offsetWidth > 800 ) {
+      var divElement = document.getElementById('viz1733872310940');
+      var vizElement = divElement.getElementsByTagName('object')[0];
+    if ( divElement.offsetWidth > 800 ) {
       vizElement.style.minWidth='420px';
       vizElement.style.maxWidth='1350px';
       vizElement.style.width='100%';
