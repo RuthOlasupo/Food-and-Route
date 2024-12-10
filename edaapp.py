@@ -166,10 +166,10 @@ def machine_learning_modeling():
 
 
     # Step 3: Transform the selected ward using the encoder
-    ward_encoded = encoder2.transform(np.array([Ward2]).reshape(-1, 1))  # Reshaping for the encoder
-    st.write("You selected:", Ward2)
-    stake_encoded = encoder2.transform(np.array([Stake]).reshape(-1,1)) 
-    st.write("You selected:", Stake)
+    ward_encoded = encoder2.transform(np.array([Ward2, Stake]).reshape(-1, 1))  # Reshaping for the encoder
+    st.write("You selected:", Ward2, Stake)
+    #stake_encoded = encoder2.transform(np.array([Stake]).reshape(-1,1)) 
+    s#t.write("You selected:", Stake)
     
     adult_volunteers = st.slider("Number of Adult Volunteers", 1, 10, 2, key="adult_volunteers_route")
     youth_volunteers = st.slider("Number of Youth Volunteers", 1, 50, 10, key="youth_volunteers_route")
