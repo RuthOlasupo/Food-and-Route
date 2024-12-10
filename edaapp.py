@@ -91,59 +91,52 @@ def machine_learning_modeling():
     
     # Input fields for user to enter data
     
-    Ward = st.selectbox("Please select the ward information", ('Clareview Ward', 'Lee Ridge Ward', 'Forest Heights Ward',
-       'Silver Berry Ward', 'Crawford Plains Ward', 'Londonderry Ward',
-       'Woodbend Ward', 'Blackmud Creek Ward', 'Connors Hill Ward',
-       'Griesbach Ward', 'Rutherford Ward', 'Rabbit Hill Ward',
-       'Namao Ward', 'Ellerslie Ward', 'Greenfield Ward',
-       'Southgate Ward', 'Terwillegar Park Ward', 'Wild Rose Ward',
-       'Rio Vista Ward', 'Beaumont Ward', 'Wainwright Branch'))
+    Ward1 = st.selectbox(
+        "Please select the ward information for donation bag prediction", 
+        ('Clareview Ward', 'Lee Ridge Ward', 'Forest Heights Ward',
+         'Silver Berry Ward', 'Crawford Plains Ward', 'Londonderry Ward',
+         'Woodbend Ward', 'Blackmud Creek Ward', 'Connors Hill Ward',
+         'Griesbach Ward', 'Rutherford Ward', 'Rabbit Hill Ward',
+         'Namao Ward', 'Ellerslie Ward', 'Greenfield Ward',
+         'Southgate Ward', 'Terwillegar Park Ward', 'Wild Rose Ward',
+         'Rio Vista Ward', 'Beaumont Ward', 'Wainwright Branch'),
+        key="ward_donation"
+    )
     # Load encoder
     encoder = joblib.load('one_hot_encoder.pkl') 
     
 
     # Step 3: Transform the selected ward using the encoder
     
-    ward_encoded = encoder.transform(np.array([Ward]).reshape(-1, 1))  # Reshaping for the encoder
+    ward_encoded = encoder.transform(np.array([Ward1]).reshape(-1, 1))  # Reshaping for the encoder
        
-
-    st.write("You selected:", Ward)
+    st.write("You selected:", Ward1)
     
-    routes_completed = st.slider("Routes Completed", 1, 10, 5)
-    time_spent = st.slider("Time Spent (minutes)", 10, 150, 60)
-    adult_volunteers = st.slider("Number of Adult Volunteers", 1, 10, 2)
-    youth_volunteers = st.slider("Number of Youth Volunteers", 1, 50, 10)
-    doors_in_route = st.slider("Number of Doors in Route", 10, 2000, 100)
+    routes_completed = st.slider("Routes Completed", 1, 10, 5, key="routes_completed")
+    time_spent = st.slider("Time Spent (minutes)", 10, 150, 60, key="time_spent")
+    adult_volunteers = st.slider("Number of Adult Volunteers", 1, 10, 2, key="adult_volunteers_bags")
+    youth_volunteers = st.slider("Number of Youth Volunteers", 1, 50, 10, key="youth_volunteers_bags")
+    doors_in_route = st.slider("Number of Doors in Route", 10, 2000, 100, key="doors_in_route_bags")
     
     # Predict button
-    if st.button("Predict"):
+    if st.button("Predict Donation Bags", key="predict_bags"):
         # Load the trained model
         model = joblib.load('best_model_bag.pkl')
      
-
-       
-        
         # Prepare input data for prediction
-       
         input_data = np.hstack((ward_encoded, np.array([[routes_completed, time_spent, adult_volunteers, youth_volunteers, doors_in_route]])))
         
-
-       
-      
-        # Check t#he input data to ensure it's correct
-        #st.write("Input data for prediction:", (routes_completed, time_spent, adult_volunteers, youth_volunteers, doors_in_route))
+        # Display input data for verification
         st.write("You have inputted the following data for prediction:")
-        st.write(f"- Ward: {Ward}")
+        st.write(f"- Ward: {Ward1}")
         st.write(f"- Routes Completed: {routes_completed}")
         st.write(f"- Time Spent: {time_spent} minutes")
         st.write(f"- Number of Adult Volunteers: {adult_volunteers}")
         st.write(f"- Number of Youth Volunteers: {youth_volunteers}")
         st.write(f"- Number of Doors: {doors_in_route}")
 
-
         # Make prediction
         prediction = model.predict(input_data)
-        
         
         # Display the prediction
         st.success(f"The predicted number of donation bags is: {prediction[0]}")
@@ -151,57 +144,58 @@ def machine_learning_modeling():
     st.write("Enter the details to predict route completion time:") 
 
     # Input fields for user to enter data
-    Ward = st.selectbox("Please select the ward information", ('Clareview Ward', 'Lee Ridge Ward', 'Forest Heights Ward',
-       'Silver Berry Ward', 'Crawford Plains Ward', 'Londonderry Ward',
-       'Woodbend Ward', 'Blackmud Creek Ward', 'Connors Hill Ward',
-       'Griesbach Ward', 'Rutherford Ward', 'Rabbit Hill Ward',
-       'Namao Ward', 'Ellerslie Ward', 'Greenfield Ward',
-       'Southgate Ward', 'Terwillegar Park Ward', 'Wild Rose Ward',
-       'Rio Vista Ward', 'Beaumont Ward', 'Wainwright Branch'))
-
-    Stake = st.selectbox("Please select the stake information", ('Bonnie Doon Stake', 'Gateway Stake', 'Riverbend Stake',
-       'Edmonton North Stake'))
+    Ward2 = st.selectbox(
+        "Please select the ward information for route completion prediction", 
+        ('Clareview Ward', 'Lee Ridge Ward', 'Forest Heights Ward',
+         'Silver Berry Ward', 'Crawford Plains Ward', 'Londonderry Ward',
+         'Woodbend Ward', 'Blackmud Creek Ward', 'Connors Hill Ward',
+         'Griesbach Ward', 'Rutherford Ward', 'Rabbit Hill Ward',
+         'Namao Ward', 'Ellerslie Ward', 'Greenfield Ward',
+         'Southgate Ward', 'Terwillegar Park Ward', 'Wild Rose Ward',
+         'Rio Vista Ward', 'Beaumont Ward', 'Wainwright Branch'),
+        key="ward_route"
+    )
+    Stake = st.selectbox(
+        "Please select the stake information", 
+        ('Bonnie Doon Stake', 'Gateway Stake', 'Riverbend Stake', 'Edmonton North Stake'), 
+        key="stake"
+    )
 
     # Load encoder
     encoder2 = joblib.load('scalar.pkl') 
 
     # Step 3: Transform the selected ward using the encoder
-    
-    ward_encoded = encoder2.transform(np.array([Ward]).reshape(-1, 1))  # Reshaping for the encoder
-    st.write("You selected:", Ward)
+    ward_encoded = encoder2.transform(np.array([Ward2]).reshape(-1, 1))  # Reshaping for the encoder
+    st.write("You selected:", Ward2)
     stake_encoded = encoder2.transform(np.array([Stake]).reshape(-1,1)) 
     st.write("You selected:", Stake)
     
-    
-    adult_volunteers = st.slider("Number of Adult Volunteers", 1, 10, 2)
-    youth_volunteers = st.slider("Number of Youth Volunteers", 1, 50, 10)
-    doors_in_route = st.slider("Number of Doors in Route", 10, 2000, 100)
+    adult_volunteers = st.slider("Number of Adult Volunteers", 1, 10, 2, key="adult_volunteers_route")
+    youth_volunteers = st.slider("Number of Youth Volunteers", 1, 50, 10, key="youth_volunteers_route")
+    doors_in_route = st.slider("Number of Doors in Route", 10, 2000, 100, key="doors_in_route_route")
     
     # Predict button
-    if st.button("Predict"):
+    if st.button("Predict Completion Time", key="predict_route"):
         # Load the trained model
         model2 = joblib.load('best_model_route.pkl')
      
         # Prepare input data for prediction
-       
         input_data2 = np.hstack((ward_encoded, stake_encoded, np.array([[adult_volunteers, youth_volunteers, doors_in_route]])))
         
-        # Check the input data to ensure it's correct
-        #st.write("Input data for prediction:", (adult_volunteers, youth_volunteers, doors_in_route))
+        # Display input data for verification
         st.write("You have inputted the following data for prediction:")
-        st.write(f"- Ward: {Ward}")
+        st.write(f"- Ward: {Ward2}")
         st.write(f"- Stake: {Stake}")
         st.write(f"- Number of Adult Volunteers: {adult_volunteers}")
         st.write(f"- Number of Youth Volunteers: {youth_volunteers}")
         st.write(f"- Number of Doors: {doors_in_route}")
 
-
         # Make prediction
         prediction2 = model2.predict(input_data2)
         
-        
         # Display the prediction
         st.success(f"The approximate completion time is: {prediction2[0]}")
+
 
 
 
