@@ -166,7 +166,7 @@ def machine_learning_modeling():
 
 
     # Step 3: Transform the selected ward using the encoder
-    ward_encoded = encoder2.transform(np.array([Ward2, Stake]).reshape(-1, 1))  # Reshaping for the encoder
+    ward_encoded = encoder2.transform(np.array([Ward2, Stake])  # Reshaping for the encoder
     st.write("You selected:", Ward2, Stake)
     #stake_encoded = encoder2.transform(np.array([Stake]).reshape(-1,1)) 
     s#t.write("You selected:", Stake)
@@ -181,7 +181,7 @@ def machine_learning_modeling():
         model2 = joblib.load('best_model_route.pkl')
      
         # Prepare input data for prediction
-        input_data2 = np.hstack((ward_encoded, stake_encoded, np.array([[adult_volunteers, youth_volunteers, doors_in_route]])))
+        input_data2 = np.hstack((ward_encoded, np.array([[adult_volunteers, youth_volunteers, doors_in_route]])))
         
         # Display input data for verification
         st.write("You have inputted the following data for prediction:")
