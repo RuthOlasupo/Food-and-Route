@@ -173,7 +173,7 @@ def machine_learning_modeling():
     
     adult_volunteers = st.slider("Number of Adult Volunteers", 1, 10, 2, key="adult_volunteers_route")
     youth_volunteers = st.slider("Number of Youth Volunteers", 1, 50, 10, key="youth_volunteers_route")
-    doors_in_route = st.slider("Number of Doors in Route", 10, 2000, 100, key="doors_in_route_route")
+    doors_in_route = st.slider("Number of Doors in Route", 10, 2000, 50, key="doors_in_route_route")
     
     # Predict button
     if st.button("Predict Completion Time", key="predict_route"):
@@ -195,7 +195,9 @@ def machine_learning_modeling():
         prediction2 = model2.predict(input_data2)
         
         # Display the prediction
-        st.success(f"The approximate completion time is: {prediction2[0]}")
+        # Assuming prediction2 is an array with a float value at index 0
+        st.success(f"The approximate completion time is: {int(prediction2[0])} mins")
+
 
 
 
