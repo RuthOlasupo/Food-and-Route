@@ -67,64 +67,68 @@ def exploratory_data_analysis():
     # Streamlit App Title
     st.title("Edmonton Food Drive - Time Series Analysis")
 
-    # Embed Tableau Visualization
+
+
+    # Tableau visualization HTML embed code
     tableau_html = """
     <div class='tableauPlaceholder' id='viz1733872310940' style='position: relative'>
       <noscript>
-    <a href='#'>
-      <img alt='Edmonton Food Drive - Time Series Analysis (2023 - 2024) '
-           src='https://public.tableau.com/static/images/ED/EDA-Demo/NoOutliersDashboard/1_rss.png' style='border: none' />
-    </a>
+        <a href='#'>
+          <img alt='Edmonton Food Drive - Time Series Analysis (2023 - 2024)'
+               src='https://public.tableau.com/static/images/ED/EDA-Demo/NoOutliersDashboard/1_rss.png' style='border: none' />
+        </a>
       </noscript>
-      <object class='tableauViz'  style='display:none;'>
-    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
-    <param name='embed_code_version' value='3' />
-    <param name='site_root' value='' />
-    <param name='name' value='EDA-Demo/NoOutliersDashboard' />
-    <param name='tabs' value='no' />
-    <param name='toolbar' value='yes' />
-    <param name='static_image' value='https://public.tableau.com/static/images/ED/EDA-Demo/NoOutliersDashboard/1.png' />
-    <param name='animate_transition' value='yes' />
-    <param name='display_static_image' value='yes' />
-    <param name='display_spinner' value='yes' />
-    <param name='display_overlay' value='yes' />
-    <param name='display_count' value='yes' />
-    <param name='language' value='en-US' />
+      <object class='tableauViz' style='display:none;'>
+        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+        <param name='embed_code_version' value='3' />
+        <param name='site_root' value='' />
+        <param name='name' value='EDA-Demo/NoOutliersDashboard' />
+        <param name='tabs' value='no' />
+        <param name='toolbar' value='yes' />
+        <param name='static_image' value='https://public.tableau.com/static/images/ED/EDA-Demo/NoOutliersDashboard/1.png' />
+        <param name='animate_transition' value='yes' />
+        <param name='display_static_image' value='yes' />
+        <param name='display_spinner' value='yes' />
+        <param name='display_overlay' value='yes' />
+        <param name='display_count' value='yes' />
+        <param name='language' value='en-US' />
       </object>
     </div>
     <script type='text/javascript'>
       var divElement = document.getElementById('viz1733872310940');
       var vizElement = divElement.getElementsByTagName('object')[0];
-    if ( divElement.offsetWidth > 800 ) {
-      vizElement.style.minWidth='420px';
-      vizElement.style.maxWidth='1350px';
-      vizElement.style.width='100%';
-      vizElement.style.minHeight='587px';
-      vizElement.style.maxHeight='887px';
-      vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-  } else if ( divElement.offsetWidth > 500 ) {
-      vizElement.style.minWidth='420px';
-      vizElement.style.maxWidth='1350px';
-      vizElement.style.width='100%';
-      vizElement.style.minHeight='587px';
-      vizElement.style.maxHeight='887px';
-      vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-  } else {
-      vizElement.style.width='100%';
-      vizElement.style.height='1677px';
-  }
-  var scriptElement = document.createElement('script');
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+      if (divElement.offsetWidth > 800) {
+        vizElement.style.minWidth = '420px';
+        vizElement.style.maxWidth = '1350px';
+        vizElement.style.width = '100%';
+        vizElement.style.minHeight = '587px';
+        vizElement.style.maxHeight = '887px';
+        vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+      } else if (divElement.offsetWidth > 500) {
+        vizElement.style.minWidth = '420px';
+        vizElement.style.maxWidth = '1350px';
+        vizElement.style.width = '100%';
+        vizElement.style.minHeight = '587px';
+        vizElement.style.maxHeight = '887px';
+        vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+      } else {
+        vizElement.style.width = '100%';
+        vizElement.style.height = '1677px';
+      }
+      var scriptElement = document.createElement('script');
+      scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+      vizElement.parentNode.insertBefore(scriptElement, vizElement);
     </script>
-"""
-
+    """
+    
     # Embed the Tableau visualization in Streamlit
-    components.html(tableau_html, height=800)
+    st.title("Tableau Dashboard Embed")
+    components.html(tableau_html, height=900)
     
-   
+        
+       
+        
     
-
 
 # Page 3: Machine Learning Modeling
 def machine_learning_modeling():
