@@ -70,10 +70,11 @@ def exploratory_data_analysis():
     # Link to Tableau Visualization
     st.markdown(
     """
-    [Click here to view the interactive Edmonton Food Drive Analysis (2023 - 2024) on Tableau or](https://public.tableau.com/app/profile/enkeshie.parris/viz/EDA-Demo/NoOutliersDashboard)
+    [Click here to view the interactive Edmonton Food Drive Analysis (2023 - 2024) on Tableau](https://public.tableau.com/app/profile/enkeshie.parris/viz/EDA-Demo/NoOutliersDashboard)
     """,
     unsafe_allow_html=True
 )
+    st.write("OR")
     st.write("Interact with the dashboard below")
     
     # Tableau visualization HTML embed code
