@@ -64,10 +64,6 @@ def dashboard():
 # Page 2: Exploratory Data Analysis (EDA) 
 def exploratory_data_analysis():
     import base64  # Import inside the function to keep scope clean
-    # Set the page title
-    st.subheader("Visualization of trends from 2023 to 2024")
-    
-
     # Streamlit App Title
     st.title("Edmonton Food Drive - Time Series Analysis")
 
