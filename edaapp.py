@@ -1,4 +1,4 @@
-import streamlit as st
+caimport streamlit as st
 import pandas as pd
 import plotly.express as px
 import joblib
@@ -177,7 +177,7 @@ def machine_learning_modeling():
     if st.button("Predict Completion Time", key="predict_route"):
         # Load the scaler and the trained model
         model2 = joblib.load('best_model_route.pkl')
-        scaler = joblib.load('scaler.pkl')
+        scaler = joblib.load('numerical_scaler.pkl')
 
         # Prepare and scale numerical features
         numerical_features2 = np.array([[adult_volunteers, youth_volunteers, doors_in_route]])
